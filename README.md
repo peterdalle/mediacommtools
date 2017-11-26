@@ -16,10 +16,11 @@ University of Gothenburg
 
 - [Tinfoleak](http://www.vicenteaguileradiaz.com/tools/) - The most complete open-source tool for Twitter intelligence analysis.
 - [Creepy](http://www.geocreepy.com) ([GitHub](https://github.com/ilektrojohn/creepy)) - A geolocation OSINT tool. Offers geolocation information gathering through social networking platforms. 
-
-## GitHub projects
-
 - [PolitEcho](http://politecho.org ) ([GitHub](https://github.com/politecho/politecho)) shows you the political biases of your Facebook friends and news feed.
+- [Facepager](https://github.com/strohne/Facepager) fetches publicly available data from Facebook, Twitter and other JSON-based API:s.
+
+## Text analysis
+
 - [newsflash](https://github.com/hrbrmstr/newsflash) is a tool that access the Internet Archive and GDELT Television Explorer in R
 - [SentimentAnalysis](https://github.com/sfeuerriegel/SentimentAnalysis) performs a sentiment analysis of textual contents in R
 

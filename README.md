@@ -9,9 +9,10 @@ University of Gothenburg
 [@peterdalle](https://twitter.com/peterdalle)  
 [peterdahlgren.com](http://peterdahlgren.com/)
 
-## Content analysis
+## Content analysis, text analysis
 
 - [Lexicoder](http://www.lexicoder.com/) - Java-based, multi-platform software for automated content analysis of text (McGill, Michigan, Penn University).
+- [SentimentAnalysis](https://github.com/sfeuerriegel/SentimentAnalysis) - performs sentiment analysis of textual contents in R.
 
 ## Social networking sites
 
@@ -52,10 +53,6 @@ University of Gothenburg
 - [Claim Extraction for Scientific Publications](https://github.com/titipata/detecting-scientific-claim) - detect claims (e.g. "background", "conclusion") from scientific publication using discourse and sentence embedding.
 - [scholar.py](https://github.com/ckreibich/scholar.py) - parser for Google Scholar, written in Python.
 
-## Text analysis
-
-- [SentimentAnalysis](https://github.com/sfeuerriegel/SentimentAnalysis) - performs sentiment analysis of textual contents in R.
-
 ## Experiments
 
 - [jsPsych](http://www.jspsych.org) ([GitHub](https://github.com/jspsych/jsPsych/)) - JavaScript library for creating and running behavioral experiments in a web browser.
@@ -63,7 +60,7 @@ University of Gothenburg
 - [PlanOut](https://facebook.github.io/planout/) - framework for online field experiments. Makes it easy to run and iterate on sophisticated experiments in a statistically sound manner while satisfying the constraints of deployed Internet services.
 - [PsychoPy](http://www.psychopy.org/) - allow presentation of stimuli and collection of data for a wide range of neuroscience, psychology and psychophysics experiments. Written in Python.
 - [WebExp](http://groups.inf.ed.ac.uk/webexp/) - system for conducting psychological experiments over the web.
-- [conjoin-example](https://github.com/leeper/conjoint-example) - example conjoint experimental design in Qualtrics.
+- [conjoint-example](https://github.com/leeper/conjoint-example) - example conjoint experimental design in Qualtrics.
 
 ## Surveys
 

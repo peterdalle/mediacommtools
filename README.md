@@ -10,28 +10,64 @@ University of Gothenburg
 [peterdahlgren.com](http://peterdahlgren.com/)
 
 ## Content analysis
-[Lexicoder](http://www.lexicoder.com/) - Java-based, multi-platform software for automated content analysis of text (McGill, Michigan, Penn University).
+
+- [Lexicoder](http://www.lexicoder.com/) - Java-based, multi-platform software for automated content analysis of text (McGill, Michigan, Penn University).
 
 ## Social networking sites
 
-- [Tinfoleak](http://www.vicenteaguileradiaz.com/tools/) - The most complete open-source tool for Twitter intelligence analysis.
-- [Creepy](http://www.geocreepy.com) ([GitHub](https://github.com/ilektrojohn/creepy)) - A geolocation OSINT tool. Offers geolocation information gathering through social networking platforms. 
-- [PolitEcho](http://politecho.org ) ([GitHub](https://github.com/politecho/politecho)) shows you the political biases of your Facebook friends and news feed.
-- [Facepager](https://github.com/strohne/Facepager) fetches publicly available data from Facebook, Twitter and other JSON-based API:s.
+- [Creepy](http://www.geocreepy.com) ([GitHub](https://github.com/ilektrojohn/creepy)) - a geolocation OSINT tool. Offers geolocation information gathering through social networking platforms. 
+
+### Facebook
+
+- [Facepager](https://github.com/strohne/Facepager) - fetches publicly available data from Facebook, Twitter and other JSON-based API:s.
+- [facebook-page-post-scraper](facebook-page-post-scraper) - data scraper for Facebook Pages.
+- [PolitEcho](http://politecho.org ) ([GitHub](https://github.com/politecho/politecho)) - shows you the political biases of your Facebook friends and news feed.
+- [netvizz](https://github.com/bernorieder/netvizz) - collection of scripts that help with downloading data from the Facebook platform for research purposes.
+
+### Twitter
+
+- [twarc](https://github.com/DocNow/twarc) - command line tool (and Python library) for archiving Twitter JSON.
+- [tweetbotornot](https://github.com/mkearney/tweetbotornot) - R package for detecting Twitter bots via machine learning.
+- [Tinfoleak](http://www.vicenteaguileradiaz.com/tools/) - open-source tool for Twitter intelligence analysis.
+
+### Others
+
+- [flashback](https://github.com/miroli/flashback) - scrapes Swedish Flashback forum (https://www.flashback.org/).
+
+## Search engines
+
+- [GoogleScraper](https://github.com/NikolaiT/GoogleScraper) - Python module to scrape search engines (e.g., Google, Yandex, Bing, Duckduckgo, Baidu) by using proxies (socks4/5, http proxy) and many IP's, including asynchronous networking support (very fast).
+
+## News
+
+- [newsdiffs](https://github.com/ecprice/newsdiffs) - automatic scraper that tracks changes in news articles over time.
+- [newsflash](https://github.com/hrbrmstr/newsflash) - tools to work with the Internet Archive and GDELT Television Explorer in R.
+- [newspaper](https://github.com/codelucas/newspaper) - bews, full-text, and article metadata extraction in Python 3.
+- [python-goose](https://github.com/grangier/python-goose) - html content and article extractor, web scraping library in Python.
+- [mediacloud](https://github.com/berkmancenter/mediacloud) - open source, open data platform that allows researchers to answer quantitative questions about the content of online media.
+
+## Journal articles
+
+- [journal-spider](https://github.com/chartgerink/journal-spiders) - tools to spider journal websites for links to articles.
+- [Claim Extraction for Scientific Publications](https://github.com/titipata/detecting-scientific-claim) - detect claims (e.g. "background", "conclusion") from scientific publication using discourse and sentence embedding.
+- [scholar.py](https://github.com/ckreibich/scholar.py) - parser for Google Scholar, written in Python.
 
 ## Text analysis
 
-- [newsflash](https://github.com/hrbrmstr/newsflash) is a tool that access the Internet Archive and GDELT Television Explorer in R
-- [SentimentAnalysis](https://github.com/sfeuerriegel/SentimentAnalysis) performs a sentiment analysis of textual contents in R
+- [SentimentAnalysis](https://github.com/sfeuerriegel/SentimentAnalysis) - performs sentiment analysis of textual contents in R.
 
 ## Experiments
 
-- [jsPsych](http://www.jspsych.org) ([GitHub](https://github.com/jspsych/jsPsych/)) is a JavaScript library for creating and running behavioral experiments in a web browser.
-- [OpenSeasme](http://osdoc.cogsci.nl/about/)
-OpenSesame is a graphical, open-source experiment builder for the social sciences. It sports a modern and intuitive user interface that allows you to build complex experiments with a minimum of effort. With OpenSesame you can create a wide range of experiments. The plug-in framework and Python scripting allow you to incorporate external devices, such as eye trackers, response boxes, and parallel port devices, into your experiment.
-- [PlanOut](https://facebook.github.io/planout/) is a framework for online field experiments. It was created to make it easy to run and iterate on sophisticated experiments in a statistically sound manner while satisfying the constraints of deployed Internet services.
-- [PsychoPy](http://www.psychopy.org/) is an open-source application to allow the presentation of stimuli and collection of data for a wide range of neuroscience, psychology and psychophysics experiments. It’s a free, powerful alternative to Presentation™ or e-Prime™, written in Python (a free alternative to Matlab™).
-- [WebExp](http://groups.inf.ed.ac.uk/webexp/) is a unique system for conducting psychological experiments over the World Wide Web.
+- [jsPsych](http://www.jspsych.org) ([GitHub](https://github.com/jspsych/jsPsych/)) - JavaScript library for creating and running behavioral experiments in a web browser.
+- [OpenSeasme](http://osdoc.cogsci.nl/about/) - graphical, open-source experiment builder for social sciences. Build complex experiments with minimal effort, create a wide range of experiments. Plug-in framework and Python scripting allows you to incorporate external devices, such as eye trackers, response boxes, and parallel port devices.
+- [PlanOut](https://facebook.github.io/planout/) - framework for online field experiments. Makes it easy to run and iterate on sophisticated experiments in a statistically sound manner while satisfying the constraints of deployed Internet services.
+- [PsychoPy](http://www.psychopy.org/) - allow presentation of stimuli and collection of data for a wide range of neuroscience, psychology and psychophysics experiments. Written in Python.
+- [WebExp](http://groups.inf.ed.ac.uk/webexp/) - system for conducting psychological experiments over the web.
+- [conjoin-example](https://github.com/leeper/conjoint-example) - example conjoint experimental design in Qualtrics.
+
+## Surveys
+
+- [qualtRics](https://github.com/ropensci/qualtRics) - Download qualtrics survey data directly into R.
 
 ## Questionable research practices
 
@@ -41,11 +77,21 @@ OpenSesame is a graphical, open-source experiment builder for the social science
 - [statcheck](http://statcheck.io/)
 - [The Test of Insufficient Variance (TIVA)](https://replicationindex.wordpress.com/2014/12/30/the-test-of-insufficient-variance-tiva-a-new-tool-for-the-detection-of-questionable-research-practices/) is a new tool for the detection of questionable research practices.
 
+## Education
+
+- [data-journalism-courses](https://github.com/jwyg/data-journalism-courses) - list of data journalism courses and programmes from universities and higher education institutions around the world.
+
+## Organizations
+
+- [Digital Methods Initiative](https://wiki.digitalmethods.net/Dmi/) ([GitHub](https://github.com/digitalmethodsinitiative)) - contribution to doing research into the "natively digital".
+
 ## See also
 
+- [Awesome Web Archiving Awesome](https://github.com/iipc/awesome-web-archiving) - awesome list for getting started with web archiving.
+- [awesome-r:](https://github.com/uhub/awesome-r) - list of awesome R frameworks, libraries and software.
+- [awesome-public-datasets](https://github.com/vnijs/awesome-public-datasets) - awesome list of (large-scale) public datasets on the Internet (on-going collection)
 - [Social media collection tools: A curated list](http://dfreelon.org/2015/01/22/social-media-collection-tools-a-curated-list/)
 - [Social media methodologies](https://socialmediamethodologies.wordpress.com/)
-- [awesome-r: A curated list of awesome R frameworks, libraries and software](https://github.com/uhub/awesome-r)
 
 ## Relevant literature
 

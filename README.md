@@ -9,10 +9,12 @@ University of Gothenburg
 [@peterdalle](https://twitter.com/peterdalle)  
 [peterdahlgren.com](http://peterdahlgren.com/)
 
-## Content analysis, text analysis
+## Content analysis, text analysis, text mining
 
+- [Text Mining for Social Scientists and Digital Humanists](https://tm4ss.github.io/docs/) ([GitHub](https://github.com/tm4ss/tm4ss.github.io)) (R)
 - [Lexicoder](http://www.lexicoder.com/) - Java-based, multi-platform software for automated content analysis of text (McGill, Michigan, Penn University).
 - [SentimentAnalysis](https://github.com/sfeuerriegel/SentimentAnalysis) - performs sentiment analysis of textual contents in R.
+- [Topic Models Learning and R Resources](https://github.com/trinker/topicmodels_learning)
 
 ## Social networking sites
 

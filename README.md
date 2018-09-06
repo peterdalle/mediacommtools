@@ -139,13 +139,14 @@ Convert effect sizes:
 - [Equivalent Statistics](http://psych.purdue.edu/~gfrancis/EquivalentStatistics/)
 - [Practical Meta-Analysis Effect Size Calculator](https://www.campbellcollaboration.org/escalc/html/EffectSizeCalculator-SMD-main.php)
 
-### Reference managers
+### Organize photos, citations and references
 
-- [EndNote](http://endnote.com/)
-- [JabRef](http://www.jabref.org/)
-- [Mendeley](https://www.mendeley.com/)
-- [ReadCube Papers](https://www.readcube.com/)
-- [Zotero](https://www.zotero.org/)
+- [EndNote](http://endnote.com/) - bibliography reference manager.
+- [JabRef](http://www.jabref.org/) - bibliography reference manager using BibTeX (free).
+- [Mendeley](https://www.mendeley.com/) - bibliography reference manager (free).
+- [ReadCube Papers](https://www.readcube.com/) - bibliography reference manager.
+- [Zotero](https://www.zotero.org/) - bibliography reference manager (free).
+- [Tropy](https://tropy.org/) - organize research photos and images (free).
 
 ## Education
 

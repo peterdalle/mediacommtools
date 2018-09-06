@@ -172,7 +172,7 @@ More lists:
 
 - [Awesome Web Archiving Awesome](https://github.com/iipc/awesome-web-archiving) - awesome list for getting started with web archiving.
 - [awesome-r:](https://github.com/uhub/awesome-r) - list of awesome R frameworks, libraries and software.
-- [Social media collection tools: A curated list](http://dfreelon.org/2015/01/22/social-media-collection-tools-a-curated-list/)
+- [Social media collection tools](http://socialmediadata.wikidot.com/) - by Deen Freelon.
 - [Social media methodologies](https://socialmediamethodologies.wordpress.com/)
 
 Tutorials:

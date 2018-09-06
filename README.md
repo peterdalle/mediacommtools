@@ -155,6 +155,7 @@ Convert effect sizes:
 ## Organizations
 
 - [Digital Methods Initiative](https://wiki.digitalmethods.net/Dmi/) ([GitHub](https://github.com/digitalmethodsinitiative)) - contribution to doing research into the "natively digital".
+- [DocNow](https://www.docnow.io/) - tool/community that supports ethical collection, use, and preservation of social media content.
 
 ## Open science, pre-registration, code/data sharing
 

@@ -69,11 +69,12 @@ Misc:
 - [python-goose](https://github.com/grangier/python-goose) - html content and article extractor, web scraping library in Python.
 - [mediacloud](https://github.com/berkmancenter/mediacloud) - open source, open data platform that allows researchers to answer quantitative questions about the content of online media.
 
-## Download journal articles
+## Journal articles, citations
 
 - [journal-spider](https://github.com/chartgerink/journal-spiders) - tools to spider journal websites for links to articles.
 - [Claim Extraction for Scientific Publications](https://github.com/titipata/detecting-scientific-claim) - detect claims (e.g. "background", "conclusion") from scientific publication using discourse and sentence embedding.
 - [scholar.py](https://github.com/ckreibich/scholar.py) - parser for Google Scholar, written in Python.
+- [OpenCitations](http://opencitations.net/) - API to search and browse OpenCitations Corpus (OCC) of open downloadable bibliographic and citation data recorded in RDF.
 
 ## Experiments
 

@@ -1,13 +1,10 @@
 # Tools for media and communication research
 
-A list of digital tools for journalism, media and communication research. To be updated now and then.
+A list of digital tools for journalism, media and communication research. Updated now and then.
 
-[Peter M. Dahlgren](http://jmg.gu.se/english/about-us/staff/?languageId=100001&userId=xdpete)  
-Department of Journalism, Media and Communication  
-University of Gothenburg
+## Find datasets
 
-[@peterdalle](https://twitter.com/peterdalle)  
-[peterdahlgren.com](http://peterdahlgren.com/)
+- [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 
 ## Content analysis, text analysis, text mining
 
@@ -15,6 +12,7 @@ University of Gothenburg
 - [Lexicoder](http://www.lexicoder.com/) - Java-based, multi-platform software for automated content analysis of text (McGill, Michigan, Penn University).
 - [SentimentAnalysis](https://github.com/sfeuerriegel/SentimentAnalysis) - performs sentiment analysis of textual contents in R.
 - [Topic Models Learning and R Resources](https://github.com/trinker/topicmodels_learning)
+- [Count Words in a PDF Document](https://leeper.shinyapps.io/pdfcount/) - online tool.
 
 ## Social networking sites
 
@@ -25,7 +23,8 @@ University of Gothenburg
 - [Facepager](https://github.com/strohne/Facepager) - fetches publicly available data from Facebook, Twitter and other JSON-based API:s.
 - [facebook-page-post-scraper](facebook-page-post-scraper) - data scraper for Facebook Pages.
 - [PolitEcho](http://politecho.org ) ([GitHub](https://github.com/politecho/politecho)) - shows you the political biases of your Facebook friends and news feed.
-- [netvizz](https://github.com/bernorieder/netvizz) - collection of scripts that help with downloading data from the Facebook platform for research purposes.
+- [netvizz](https://github.com/bernorieder/netvizz) - collection of scripts that help with downloading data from the Facebook platform for research purposes (important about Facebook API changes, read [Facebook’s app review and how independent research just got a lot harder
+](http://thepoliticsofsystems.net/2018/08/facebooks-app-review-and-how-independent-research-just-got-a-lot-harder/)).
 
 ### Twitter
 
@@ -33,7 +32,7 @@ University of Gothenburg
 - [tweetbotornot](https://github.com/mkearney/tweetbotornot) - R package for detecting Twitter bots via machine learning.
 - [Tinfoleak](http://www.vicenteaguileradiaz.com/tools/) - open-source tool for Twitter intelligence analysis.
 
-### Others
+### Misc
 
 - [flashback](https://github.com/miroli/flashback) - scrapes Swedish Flashback forum (https://www.flashback.org/).
 
@@ -68,13 +67,16 @@ University of Gothenburg
 
 - [qualtRics](https://github.com/ropensci/qualtRics) - Download qualtrics survey data directly into R.
 
-## Questionable research practices
+## Scales
 
-- [GRIM Test](https://medium.com/@jamesheathers/the-grim-test-a-method-for-evaluating-published-research-9a4e5f05e870)
-- [GRIMMER test](https://peerj.com/preprints/2400/)
-- [SPRITE](https://hackernoon.com/introducing-sprite-and-the-case-of-the-carthorse-child-58683c2bfeb)
-- [statcheck](http://statcheck.io/)
-- [The Test of Insufficient Variance (TIVA)](https://replicationindex.wordpress.com/2014/12/30/the-test-of-insufficient-variance-tiva-a-new-tool-for-the-detection-of-questionable-research-practices/) is a new tool for the detection of questionable research practices.
+- [The Semantic Scale Network](https://rosenbusch.shinyapps.io/semantic_net/) - online app that detect semantically related scales. Input a scale item and get a similar scales/items back (contains 2,300 scales and 30,000 items).
+
+## Statistics and questionable research practices (QRP's)
+
+- [GRIM Test](https://medium.com/@jamesheathers/the-grim-test-a-method-for-evaluating-published-research-9a4e5f05e870) checks if the reported means match with number of items and type of scale (see also [GRIMMER test](https://peerj.com/preprints/2400/)).
+- [SPRITE](https://hackernoon.com/introducing-sprite-and-the-case-of-the-carthorse-child-58683c2bfeb) check the type of distributions that could have produced the reported descriptive statistics.
+- [statcheck](http://statcheck.io/) checks if p-values match reported statistics.
+- [The Test of Insufficient Variance (TIVA)](https://replicationindex.wordpress.com/2014/12/30/the-test-of-insufficient-variance-tiva-a-new-tool-for-the-detection-of-questionable-research-practices/) checks wether reported p-values was obtained using questionable research practices.
 
 ## Education
 
@@ -100,3 +102,7 @@ University of Gothenburg
 - Jacobi, C., van Atteveldt, W., & Welbers, K. (2016). Quantitative analysis of large amounts of journalistic texts using topic modelling. Digital Journalism, 4(1), 89–106. https://doi.org/10.1080/21670811.2015.1093271
 - Lazer, D., & Radford, J. (2017). Data ex Machina: Introduction to Big Data. Annual Review of Sociology, 43(1). https://doi.org/10.1146/annurev-soc-060116-053457
 - Wilkerson, J., & Casas, A. (2017). Large-Scale Computerized Text Analysis in Political Science: Opportunities and Challenges. Annual Review of Political Science, 20(1), 529–544. https://doi.org/10.1146/annurev-polisci-052615-025542
+
+## Relevant podcast episodes
+
+- Social Media and Politics (August, 2018) [#53: Computational Social Science and Digital Methods in the Post-API Age, with Dr. Deen Freelon](https://socialmediaandpolitics.simplecast.fm/digital-methods-post-api-era)

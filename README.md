@@ -155,6 +155,14 @@ Convert effect sizes:
 
 - [Digital Methods Initiative](https://wiki.digitalmethods.net/Dmi/) ([GitHub](https://github.com/digitalmethodsinitiative)) - contribution to doing research into the "natively digital".
 
+## Open science, pre-registration, code/data sharing
+
+- [Open Science Framework (OSF)](https://osf.io/) - add your research project and collaborate, store data, pre-register and more.
+- [As predicted](https://aspredicted.org/) - pre-register your hypothesis test.
+- [figshare](https://figshare.com/) - upload your data and get more citations.
+- [Dataverse](https://dataverse.org/) - open source web app to share, preserve, cite, explore, and analyze research data.
+- [SocArxiv](https://osf.io/preprints/socarxiv) - share your manuscript and get feedback as a pre-print before journal publication.
+
 ## See also
 
 More lists:
@@ -168,6 +176,8 @@ Tutorials:
 
 - [Using Twitter as a data source: an overview of social media research tools (updated for 2017)](http://blogs.lse.ac.uk/impactofsocialsciences/2017/05/08/using-twitter-as-a-data-source-an-overview-of-social-media-research-tools-updated-for-2017/)
 - [Using Google Trends data for research? Here are 6 questions to ask](https://medium.com/@pewresearch/using-google-trends-data-for-research-here-are-6-questions-to-ask-a7097f5fb526)
+- [Introduction to data management best practices](https://mattiheino.com/2017/09/09/intro-data-management/)
+- [Getting Started in Open Source: A Primer for Data Scientists](http://blog.districtdatalabs.com/getting-started-in-open-source)
 
 Literature:
 

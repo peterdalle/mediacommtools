@@ -1,6 +1,8 @@
 # Tools for media and communication research
 
-A list of digital tools and resources for journalism, media and communication research. Updated now and then.
+A list of digital tools and resources for journalism, media and communication research, and computational social science.
+
+Updated now and then. Add your own links via a pull request or [@peterdalle](https://twitter.com/peterdalle).
 
 ## Find datasets
 

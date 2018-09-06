@@ -139,7 +139,7 @@ Convert effect sizes:
 - [Equivalent Statistics](http://psych.purdue.edu/~gfrancis/EquivalentStatistics/)
 - [Practical Meta-Analysis Effect Size Calculator](https://www.campbellcollaboration.org/escalc/html/EffectSizeCalculator-SMD-main.php)
 
-### Organize photos, citations and references
+## Organize photos, citations and references
 
 - [EndNote](http://endnote.com/) - bibliography reference manager.
 - [JabRef](http://www.jabref.org/) - bibliography reference manager using BibTeX (free).

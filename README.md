@@ -35,15 +35,12 @@ Surveys:
 
 ## Social networking sites
 
-- [Creepy](http://www.geocreepy.com) ([GitHub](https://github.com/ilektrojohn/creepy)) - a geolocation OSINT tool. Offers geolocation information gathering through social networking platforms. 
-
 Facebook:
 
 - [Facepager](https://github.com/strohne/Facepager) - fetches publicly available data from Facebook, Twitter and other JSON-based API:s.
 - [facebook-page-post-scraper](facebook-page-post-scraper) - data scraper for Facebook Pages.
 - [PolitEcho](http://politecho.org ) ([GitHub](https://github.com/politecho/politecho)) - shows you the political biases of your Facebook friends and news feed.
-- [netvizz](https://github.com/bernorieder/netvizz) - collection of scripts that help with downloading data from the Facebook platform for research purposes (important about Facebook API changes, read [Facebook’s app review and how independent research just got a lot harder
-](http://thepoliticsofsystems.net/2018/08/facebooks-app-review-and-how-independent-research-just-got-a-lot-harder/)).
+- [netvizz](https://github.com/bernorieder/netvizz) - collection of scripts that help with downloading data from the Facebook platform for research purposes (important about Facebook API changes, read [Facebook’s app review and how independent research just got a lot harder](http://thepoliticsofsystems.net/2018/08/facebooks-app-review-and-how-independent-research-just-got-a-lot-harder/)).
 
 Twitter:
 
@@ -54,6 +51,7 @@ Twitter:
 
 Misc:
 
+- [Creepy](http://www.geocreepy.com) ([GitHub](https://github.com/ilektrojohn/creepy)) - a geolocation OSINT tool. Offers geolocation information gathering through social networking platforms. 
 - [flashback](https://github.com/miroli/flashback) - scrapes Swedish Flashback forum (https://www.flashback.org/).
 
 ## Search engine results
@@ -181,3 +179,9 @@ Literature:
 Podcast episodes:
 
 - Social Media and Politics (August, 2018) [#53: Computational Social Science and Digital Methods in the Post-API Age, with Dr. Deen Freelon](https://socialmediaandpolitics.simplecast.fm/digital-methods-post-api-era)
+
+Facebook groups:
+
+- [Association of Internet Researchers (AoIR)](https://www.facebook.com/groups/aoirlist/) (3,400+ members)
+- [OpenCOMM: Open/Replicable/Reproducible Methods/Analyses in Communication](https://www.facebook.com/groups/OpenCOMMResearch/) (280+ members)
+- [Political Communication](https://www.facebook.com/groups/politicalcommunication.org) (3,800+ members)

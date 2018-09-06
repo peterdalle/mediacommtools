@@ -1,10 +1,29 @@
 # Tools for media and communication research
 
-A list of digital tools for journalism, media and communication research. Updated now and then.
+A list of digital tools and resources for journalism, media and communication research. Updated now and then.
 
 ## Find datasets
 
-- [Google Dataset Search](https://toolbox.google.com/datasetsearch)
+Search engines:
+
+- [Google Dataset Search](https://toolbox.google.com/datasetsearch) - search engine for datasets.
+- [re3data.org](http://www.re3data.org/)
+- [Metadata Search](http://search.datacite.org/ui)
+
+Archives and lists:
+
+- [A dataset with political datasets](https://github.com/erikgahner/PolData) - Cabinets, citizens, constitutions, political institutions, parties and politicians, democracy, economics, elections, international relations, media, policy, political elites (.xlsx, .csv, .Rdata, .sav).
+- [Consortium of European Social Science Data Archives (CESSDA)](http://cessda.net/)
+- [Inter-university Consortium for Political and Social Research (ICPSR)](http://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp)
+- [Open Stats Lab](https://sites.trinity.edu/osl) data from psychological studies that is intended to be used in education.
+- [Awesome Public Datasets](https://github.com/vnijs/awesome-public-datasets) - awesome list of (large-scale) public datasets on the Internet (on-going collection)
+- [Öppna Data](https://oppnadata.se/) - open data in Sweden (from Riksarkivet).
+
+Surveys:
+
+- [The General Social Survey 1972–](http://gss.norc.org/) (USA)
+- [Latin American Public Opinion Project](https://www.vanderbilt.edu/lapop/raw-data.php) (North and South America)
+- [SOM Institute 1986–](https://snd.gu.se/sv/catalogue/search/SOM) (Sweden)
 
 ## Content analysis, text analysis, text mining
 
@@ -18,7 +37,7 @@ A list of digital tools for journalism, media and communication research. Update
 
 - [Creepy](http://www.geocreepy.com) ([GitHub](https://github.com/ilektrojohn/creepy)) - a geolocation OSINT tool. Offers geolocation information gathering through social networking platforms. 
 
-### Facebook
+Facebook:
 
 - [Facepager](https://github.com/strohne/Facepager) - fetches publicly available data from Facebook, Twitter and other JSON-based API:s.
 - [facebook-page-post-scraper](facebook-page-post-scraper) - data scraper for Facebook Pages.
@@ -26,29 +45,31 @@ A list of digital tools for journalism, media and communication research. Update
 - [netvizz](https://github.com/bernorieder/netvizz) - collection of scripts that help with downloading data from the Facebook platform for research purposes (important about Facebook API changes, read [Facebook’s app review and how independent research just got a lot harder
 ](http://thepoliticsofsystems.net/2018/08/facebooks-app-review-and-how-independent-research-just-got-a-lot-harder/)).
 
-### Twitter
+Twitter:
 
 - [twarc](https://github.com/DocNow/twarc) - command line tool (and Python library) for archiving Twitter JSON.
 - [tweetbotornot](https://github.com/mkearney/tweetbotornot) - R package for detecting Twitter bots via machine learning.
 - [Tinfoleak](http://www.vicenteaguileradiaz.com/tools/) - open-source tool for Twitter intelligence analysis.
+- [Tweetbeaver](https://tweetbeaver.com/) - convert @name to ID, check if two accounts follow each other, download a user's favorites, search within a user's favorites, download a user's timeline etc.
 
-### Misc
+Misc:
 
 - [flashback](https://github.com/miroli/flashback) - scrapes Swedish Flashback forum (https://www.flashback.org/).
 
-## Search engines
+## Search engine results
 
 - [GoogleScraper](https://github.com/NikolaiT/GoogleScraper) - Python module to scrape search engines (e.g., Google, Yandex, Bing, Duckduckgo, Baidu) by using proxies (socks4/5, http proxy) and many IP's, including asynchronous networking support (very fast).
 
-## News
+## News events
 
+- [GDELT Project](http://gdeltproject.org/) - archives all news media events around the globe.
 - [newsdiffs](https://github.com/ecprice/newsdiffs) - automatic scraper that tracks changes in news articles over time.
 - [newsflash](https://github.com/hrbrmstr/newsflash) - tools to work with the Internet Archive and GDELT Television Explorer in R.
 - [newspaper](https://github.com/codelucas/newspaper) - bews, full-text, and article metadata extraction in Python 3.
 - [python-goose](https://github.com/grangier/python-goose) - html content and article extractor, web scraping library in Python.
 - [mediacloud](https://github.com/berkmancenter/mediacloud) - open source, open data platform that allows researchers to answer quantitative questions about the content of online media.
 
-## Journal articles
+## Download journal articles
 
 - [journal-spider](https://github.com/chartgerink/journal-spiders) - tools to spider journal websites for links to articles.
 - [Claim Extraction for Scientific Publications](https://github.com/titipata/detecting-scientific-claim) - detect claims (e.g. "background", "conclusion") from scientific publication using discourse and sentence embedding.
@@ -67,20 +88,68 @@ A list of digital tools for journalism, media and communication research. Update
 
 - [qualtRics](https://github.com/ropensci/qualtRics) - Download qualtrics survey data directly into R.
 
-## Scales
+## Graphics, maps, network visualizations
 
+- [Dia](http://dia-installer.de/) - app to draw structured diagrams.
+- [Gephi](https://gephi.org/) - visualization and exploration app for all kinds of graphs and networks.
+- [QGIS](http://www.qgis.org/) - free and open source geographic information system app.
+
+## Convert and clean data
+
+- [OpenRefine](http://openrefine.org/) - powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data (formerly Google Refine).
+- [Mr. Data Converter](https://shancarter.github.io/mr-data-converter/) - convert Excel data into web-friendly formats (e.g., HTML, JSON, XML).
+
+## Scales and measures
+
+- [Media Exposure Measures](https://mediaexposuremeasures.org/) from Amsterdam School of Communication Research (ASCoR).
 - [The Semantic Scale Network](https://rosenbusch.shinyapps.io/semantic_net/) - online app that detect semantically related scales. Input a scale item and get a similar scales/items back (contains 2,300 scales and 30,000 items).
+- [Measurement Instrument Database for the Social Sciences (MIDSS)](http://www.midss.org/)
+- [Decision Making Individual Differences Inventory (DMIDI)](http://www.sjdm.org/dmidi/)
+- [PsycTESTS - psychological measures, scales, and instrumentation tools](http://www.apa.org/pubs/databases/psyctests/)
 
 ## Statistics and questionable research practices (QRP's)
 
 - [GRIM Test](https://medium.com/@jamesheathers/the-grim-test-a-method-for-evaluating-published-research-9a4e5f05e870) checks if the reported means match with number of items and type of scale (see also [GRIMMER test](https://peerj.com/preprints/2400/)).
 - [SPRITE](https://hackernoon.com/introducing-sprite-and-the-case-of-the-carthorse-child-58683c2bfeb) check the type of distributions that could have produced the reported descriptive statistics.
 - [statcheck](http://statcheck.io/) checks if p-values match reported statistics.
-- [The Test of Insufficient Variance (TIVA)](https://replicationindex.wordpress.com/2014/12/30/the-test-of-insufficient-variance-tiva-a-new-tool-for-the-detection-of-questionable-research-practices/) checks wether reported p-values was obtained using questionable research practices.
+- [Test of Insufficient Variance (TIVA)](https://replicationindex.wordpress.com/2014/12/30/the-test-of-insufficient-variance-tiva-a-new-tool-for-the-detection-of-questionable-research-practices/) checks wether reported p-values was obtained using questionable research practices.
+
+## Statistical software
+
+Programs such as [SPSS](https://www.ibm.com/analytics/se/sv/technology/spss/), [Stata](http://www.stata.com/), [SAS](http://www.sas.com/), and [Comprehensive Meta analysis](https://www.meta-analysis.com/) costs money.
+
+Free data analysis and exploration:
+
+- [Data Explorer](http://www.data-explorer.com/)
+- [Tableau](http://www.tableau.com/) - free version for academic use.
+- [GNU PSPP](http://www.gnu.org/software/pspp/) - free alternative to SPSS, looks the same and have all basic SPSS functions.
+- [R](https://www.r-project.org/) - programming language for statistics.
+- [JASP](https://jasp-stats.org/download/) - built on top of R.
+- [Jamovi](https://www.jamovi.org/) - developed from JASP.
+- [G\*Power](http://www.gpower.hhu.de/) - statistical power analysis.
+- [ESCI (Exploratory Software for Confidence Intervals)](http://www.latrobe.edu.au/psychology/research/research-areas/cognitive-and-developmental-psychology/esci/2001-to-2010) - simulate confidence intervals using Microsoft Excel.
+- [Process macro for SPSS and SAS](http://processmacro.org/download.html) - plugin for moderator and mediator analysis.
+
+Convert effect sizes:
+
+- [Effect Size Calculator](https://www.campbellcollaboration.org/this-is-a-web-based-effect-size-calculator/explore/this-is-a-web-based-effect-size-calculator)
+- [Web Pages that Perform Statistical Calculations!](http://statpages.info/)
+- [Free Statistics Calculator](http://www.danielsoper.com/statcalc/default.aspx)
+- [VassarStats: Website for Statistical Computation](http://vassarstats.net/)
+- [Equivalent Statistics](http://psych.purdue.edu/~gfrancis/EquivalentStatistics/)
+- [Practical Meta-Analysis Effect Size Calculator](https://www.campbellcollaboration.org/escalc/html/EffectSizeCalculator-SMD-main.php)
+
+### Reference managers
+
+- [EndNote](http://endnote.com/)
+- [JabRef](http://www.jabref.org/)
+- [Mendeley](https://www.mendeley.com/)
+- [ReadCube Papers](https://www.readcube.com/)
+- [Zotero](https://www.zotero.org/)
 
 ## Education
 
-- [data-journalism-courses](https://github.com/jwyg/data-journalism-courses) - list of data journalism courses and programmes from universities and higher education institutions around the world.
+- [Data Journalism Courses](https://github.com/jwyg/data-journalism-courses) - list of data journalism courses and programmes from universities and higher education institutions around the world.
 
 ## Organizations
 
@@ -88,13 +157,19 @@ A list of digital tools for journalism, media and communication research. Update
 
 ## See also
 
+More lists:
+
 - [Awesome Web Archiving Awesome](https://github.com/iipc/awesome-web-archiving) - awesome list for getting started with web archiving.
 - [awesome-r:](https://github.com/uhub/awesome-r) - list of awesome R frameworks, libraries and software.
-- [awesome-public-datasets](https://github.com/vnijs/awesome-public-datasets) - awesome list of (large-scale) public datasets on the Internet (on-going collection)
 - [Social media collection tools: A curated list](http://dfreelon.org/2015/01/22/social-media-collection-tools-a-curated-list/)
 - [Social media methodologies](https://socialmediamethodologies.wordpress.com/)
 
-## Relevant literature
+Tutorials:
+
+- [Using Twitter as a data source: an overview of social media research tools (updated for 2017)](http://blogs.lse.ac.uk/impactofsocialsciences/2017/05/08/using-twitter-as-a-data-source-an-overview-of-social-media-research-tools-updated-for-2017/)
+- [Using Google Trends data for research? Here are 6 questions to ask](https://medium.com/@pewresearch/using-google-trends-data-for-research-here-are-6-questions-to-ask-a7097f5fb526)
+
+Literature:
 
 - Boumans, J. W., & Trilling, D. (2016). Taking Stock of the Toolkit: An overview of relevant automated content analysis approaches and techniques for digital journalism scholars. Digital Journalism, 4(1), 8–23. https://doi.org/10.1080/21670811.2015.1096598
 - Burscher, B., Odijk, D., Vliegenthart, R., de Rijke, M., & de Vreese, C. H. (2014). Teaching the Computer to Code Frames in News: Comparing Two Supervised Machine Learning Approaches to Frame Analysis. Communication Methods and Measures, 8(3), 190–206. https://doi.org/10.1080/19312458.2014.937527
@@ -103,6 +178,6 @@ A list of digital tools for journalism, media and communication research. Update
 - Lazer, D., & Radford, J. (2017). Data ex Machina: Introduction to Big Data. Annual Review of Sociology, 43(1). https://doi.org/10.1146/annurev-soc-060116-053457
 - Wilkerson, J., & Casas, A. (2017). Large-Scale Computerized Text Analysis in Political Science: Opportunities and Challenges. Annual Review of Political Science, 20(1), 529–544. https://doi.org/10.1146/annurev-polisci-052615-025542
 
-## Relevant podcast episodes
+Podcast episodes:
 
 - Social Media and Politics (August, 2018) [#53: Computational Social Science and Digital Methods in the Post-API Age, with Dr. Deen Freelon](https://socialmediaandpolitics.simplecast.fm/digital-methods-post-api-era)

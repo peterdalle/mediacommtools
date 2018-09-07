@@ -65,7 +65,7 @@ Misc:
 - [GDELT Project](http://gdeltproject.org/) - archives all news media events around the globe.
 - [newsdiffs](https://github.com/ecprice/newsdiffs) - automatic scraper that tracks changes in news articles over time.
 - [newsflash](https://github.com/hrbrmstr/newsflash) - tools to work with the Internet Archive and GDELT Television Explorer in R.
-- [newspaper](https://github.com/codelucas/newspaper) - bews, full-text, and article metadata extraction in Python 3.
+- [newspaper](https://github.com/codelucas/newspaper) - news, full-text, and article metadata extraction in Python 3.
 - [python-goose](https://github.com/grangier/python-goose) - html content and article extractor, web scraping library in Python.
 - [mediacloud](https://github.com/berkmancenter/mediacloud) - open source, open data platform that allows researchers to answer quantitative questions about the content of online media.
 

@@ -100,6 +100,19 @@ Misc:
 - [OpenRefine](http://openrefine.org/) - powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data (formerly Google Refine).
 - [Mr. Data Converter](https://shancarter.github.io/mr-data-converter/) - convert Excel data into web-friendly formats (e.g., HTML, JSON, XML).
 
+## API:s and documentation
+
+- [Facebook API](https://developers.facebook.com/).
+- [Google Books](https://developers.google.com/books/docs/v1/getting_started) - search for books.
+- [Instagram](https://instagram.com/developer).
+- [New York Times](http://developer.nytimes.com/) - latest articles, top articles, book bestsellers, search articles from year 1851, and more.
+- [OMDb API](http://www.omdbapi.com/) - obtain movie information, content and images (mainted by users).
+- [Rotten Tomatoes](http://developer.rottentomatoes.com/io-docs/docs) - movie reviews.
+- [Twitter API](https://developer.twitter.com/).
+- [WikiMedia REST API](https://www.mediawiki.org/wiki/REST_API) - access to Wikipedia content, data, and statistics.
+
+See also [any-api.com](https://any-api.com/).
+
 ## Scales and measures
 
 - [Media Exposure Measures](https://mediaexposuremeasures.org/) from Amsterdam School of Communication Research (ASCoR).

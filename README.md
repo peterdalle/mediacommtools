@@ -84,6 +84,7 @@ Misc:
 - [PsychoPy](http://www.psychopy.org/) - allow presentation of stimuli and collection of data for a wide range of neuroscience, psychology and psychophysics experiments. Written in Python.
 - [WebExp](http://groups.inf.ed.ac.uk/webexp/) - system for conducting psychological experiments over the web.
 - [conjoint-example](https://github.com/leeper/conjoint-example) - example conjoint experimental design in Qualtrics.
+- [PsyToolkit](https://www.psytoolkit.org/) - free toolkit for demonstrating, programming, and running cognitive-psychological experiments and surveys, including personality tests. 
 
 ## Surveys
 

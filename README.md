@@ -134,7 +134,7 @@ See also [any-api.com](https://any-api.com/).
 
 Programs such as [SPSS](https://www.ibm.com/analytics/se/sv/technology/spss/), [Stata](http://www.stata.com/), [SAS](http://www.sas.com/), and [Comprehensive Meta analysis](https://www.meta-analysis.com/) costs money.
 
-Free data analysis and exploration:
+Free data analysis and exploration software:
 
 - [Data Explorer](http://www.data-explorer.com/)
 - [Tableau](http://www.tableau.com/) - free version for academic use.
@@ -145,6 +145,8 @@ Free data analysis and exploration:
 - [G\*Power](http://www.gpower.hhu.de/) - statistical power analysis.
 - [ESCI (Exploratory Software for Confidence Intervals)](http://www.latrobe.edu.au/psychology/research/research-areas/cognitive-and-developmental-psychology/esci/2001-to-2010) - simulate confidence intervals using Microsoft Excel.
 - [Process macro for SPSS and SAS](http://processmacro.org/download.html) - plugin for moderator and mediator analysis.
+- [Power and N Computations for Mediation](https://davidakenny.shinyapps.io/MedPower/) - online tool by David A. Kenny to calculate power or sample size.
+- [Calculator for false positive risk (FPR)](http://fpr-calc.ucl.ac.uk/) - If you observe a significant p-value after a single experiment, what's the probability that your result is a false positive? By Colin Longstaff, David Colquhoun, Brendan Halpin.
 
 Convert effect sizes:
 

@@ -34,6 +34,7 @@ Surveys:
 - [SentimentAnalysis](https://github.com/sfeuerriegel/SentimentAnalysis) - performs sentiment analysis of textual contents in R.
 - [Topic Models Learning and R Resources](https://github.com/trinker/topicmodels_learning)
 - [Count Words in a PDF Document](https://leeper.shinyapps.io/pdfcount/) - online tool.
+- [metaknowledge](http://networkslab.org/metaknowledge/) Python 3 package computational research in bibliometrics, scientometrics, and network analysis.
 
 ## Social networking sites
 

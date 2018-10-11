@@ -2,8 +2,6 @@
 
 A list of digital tools and resources for journalism, media and communication research, and computational social science.
 
-Updated now and then. Add your own links via a pull request or [@peterdalle](https://twitter.com/peterdalle).
-
 ## Find datasets
 
 Search engines:
@@ -21,7 +19,7 @@ Archives and lists:
 - [Awesome Public Datasets](https://github.com/vnijs/awesome-public-datasets) - awesome list of (large-scale) public datasets on the Internet (on-going collection)
 - [Öppna Data](https://oppnadata.se/) - open data in Sweden (from Riksarkivet).
 
-Surveys:
+Survey data:
 
 - [The General Social Survey 1972–](http://gss.norc.org/) (USA)
 - [Latin American Public Opinion Project](https://www.vanderbilt.edu/lapop/raw-data.php) (North and South America)
@@ -34,7 +32,15 @@ Surveys:
 - [SentimentAnalysis](https://github.com/sfeuerriegel/SentimentAnalysis) - performs sentiment analysis of textual contents in R.
 - [Topic Models Learning and R Resources](https://github.com/trinker/topicmodels_learning)
 - [Count Words in a PDF Document](https://leeper.shinyapps.io/pdfcount/) - online tool.
-- [metaknowledge](http://networkslab.org/metaknowledge/) Python 3 package computational research in bibliometrics, scientometrics, and network analysis.
+
+## Journal articles, citations, bibliometrics
+
+- [journal-spider](https://github.com/chartgerink/journal-spiders) - tools to spider journal websites for links to articles.
+- [Claim Extraction for Scientific Publications](https://github.com/titipata/detecting-scientific-claim) - detect claims (e.g. "background", "conclusion") from scientific publication using discourse and sentence embedding.
+- [scholar.py](https://github.com/ckreibich/scholar.py) - parser for Google Scholar, written in Python.
+- [OpenCitations](http://opencitations.net/) - API to search and browse OpenCitations Corpus (OCC) of open downloadable bibliographic and citation data recorded in RDF.
+- [metaknowledge](http://networkslab.org/metaknowledge/) - Python 3 package computational research in bibliometrics, scientometrics, and network analysis.
+- [pdfx](https://github.com/metachris/pdfx) - extract references (pdf, url, doi, arxiv) and metadata from a PDF. Download all referenced PDFs (Python).
 
 ## Social networking sites
 
@@ -69,13 +75,6 @@ Misc:
 - [newspaper](https://github.com/codelucas/newspaper) - news, full-text, and article metadata extraction in Python 3.
 - [python-goose](https://github.com/grangier/python-goose) - html content and article extractor, web scraping library in Python.
 - [mediacloud](https://github.com/berkmancenter/mediacloud) - open source, open data platform that allows researchers to answer quantitative questions about the content of online media.
-
-## Journal articles, citations
-
-- [journal-spider](https://github.com/chartgerink/journal-spiders) - tools to spider journal websites for links to articles.
-- [Claim Extraction for Scientific Publications](https://github.com/titipata/detecting-scientific-claim) - detect claims (e.g. "background", "conclusion") from scientific publication using discourse and sentence embedding.
-- [scholar.py](https://github.com/ckreibich/scholar.py) - parser for Google Scholar, written in Python.
-- [OpenCitations](http://opencitations.net/) - API to search and browse OpenCitations Corpus (OCC) of open downloadable bibliographic and citation data recorded in RDF.
 
 ## Experiments
 

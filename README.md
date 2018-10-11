@@ -35,10 +35,10 @@ Survey data:
 
 ## Journal articles, citations, bibliometrics
 
-- [journal-spider](https://github.com/chartgerink/journal-spiders) - tools to spider journal websites for links to articles.
-- [Claim Extraction for Scientific Publications](https://github.com/titipata/detecting-scientific-claim) - detect claims (e.g. "background", "conclusion") from scientific publication using discourse and sentence embedding.
-- [scholar.py](https://github.com/ckreibich/scholar.py) - parser for Google Scholar, written in Python.
-- [OpenCitations](http://opencitations.net/) - API to search and browse OpenCitations Corpus (OCC) of open downloadable bibliographic and citation data recorded in RDF.
+- [journal-spider](https://github.com/chartgerink/journal-spiders) - tools to spider journal websites for links to articles (Python).
+- [Claim Extraction for Scientific Publications](https://github.com/titipata/detecting-scientific-claim) - detect claims (e.g. "background", "conclusion") from scientific publication using discourse and sentence embedding (Python).
+- [scholar.py](https://github.com/ckreibich/scholar.py) - parser for Google Scholar (Python).
+- [OpenCitations](http://opencitations.net/) - API to search and browse OpenCitations Corpus (OCC) of open downloadable bibliographic and citation data recorded in RDF (online).
 - [metaknowledge](http://networkslab.org/metaknowledge/) - Python 3 package computational research in bibliometrics, scientometrics, and network analysis.
 - [pdfx](https://github.com/metachris/pdfx) - extract references (pdf, url, doi, arxiv) and metadata from a PDF. Download all referenced PDFs (Python).
 
@@ -46,42 +46,42 @@ Survey data:
 
 Facebook:
 
-- [Facepager](https://github.com/strohne/Facepager) - fetches publicly available data from Facebook, Twitter and other JSON-based API:s.
-- [facebook-page-post-scraper](facebook-page-post-scraper) - data scraper for Facebook Pages.
-- [PolitEcho](http://politecho.org ) ([GitHub](https://github.com/politecho/politecho)) - shows you the political biases of your Facebook friends and news feed.
+- [Facepager](https://github.com/strohne/Facepager) - fetches publicly available data from Facebook, Twitter and other JSON-based API:s (Python).
+- [facebook-page-post-scraper](https://github.com/minimaxir/facebook-page-post-scraper) - data scraper for Facebook Pages (Python).
+- [PolitEcho](http://politecho.org ) ([GitHub](https://github.com/politecho/politecho)) - shows you the political biases of your Facebook friends and news feed (Chrome extension).
 - [netvizz](https://github.com/bernorieder/netvizz) - collection of scripts that help with downloading data from the Facebook platform for research purposes (important about Facebook API changes, read [Facebook’s app review and how independent research just got a lot harder](http://thepoliticsofsystems.net/2018/08/facebooks-app-review-and-how-independent-research-just-got-a-lot-harder/)).
 
 Twitter:
 
-- [twarc](https://github.com/DocNow/twarc) - command line tool (and Python library) for archiving Twitter JSON.
+- [twarc](https://github.com/DocNow/twarc) - command line tool for archiving Twitter JSON (Python).
 - [tweetbotornot](https://github.com/mkearney/tweetbotornot) - R package for detecting Twitter bots via machine learning.
-- [Tinfoleak](http://www.vicenteaguileradiaz.com/tools/) - open-source tool for Twitter intelligence analysis.
-- [Tweetbeaver](https://tweetbeaver.com/) - convert @name to ID, check if two accounts follow each other, download a user's favorites, search within a user's favorites, download a user's timeline etc.
+- [Tinfoleak](http://www.vicenteaguileradiaz.com/tools/) ([GitHub](https://github.com/vaguileradiaz/tinfoleak)) - open-source tool for Twitter intelligence analysis (Python).
+- [Tweetbeaver](https://tweetbeaver.com/) - online tool convert @name to ID, check if two accounts follow each other, download a user's favorites, search within a user's favorites, download a user's timeline etc.
 
 Misc:
 
-- [Creepy](http://www.geocreepy.com) ([GitHub](https://github.com/ilektrojohn/creepy)) - a geolocation OSINT tool. Offers geolocation information gathering through social networking platforms. 
-- [flashback](https://github.com/miroli/flashback) - scrapes Swedish Flashback forum (https://www.flashback.org/).
+- [Creepy](http://www.geocreepy.com) ([GitHub](https://github.com/ilektrojohn/creepy)) - a geolocation OSINT tool. Offers geolocation information gathering through social networking platforms (Python). 
+- [flashback](https://github.com/miroli/flashback) - scrapes Swedish Flashback forum https://www.flashback.org/ (Python).
 
 ## Search engine results
 
-- [GoogleScraper](https://github.com/NikolaiT/GoogleScraper) - Python module to scrape search engines (e.g., Google, Yandex, Bing, Duckduckgo, Baidu) by using proxies (socks4/5, http proxy) and many IP's, including asynchronous networking support (very fast).
+- [GoogleScraper](https://github.com/NikolaiT/GoogleScraper) - scrape search engines (e.g., Google, Yandex, Bing, Duckduckgo, Baidu) by using proxies (socks4/5, http proxy) and many IP's, including asynchronous networking support (Python).
 
 ## News events
 
 - [GDELT Project](http://gdeltproject.org/) - archives all news media events around the globe.
-- [newsdiffs](https://github.com/ecprice/newsdiffs) - automatic scraper that tracks changes in news articles over time.
-- [newsflash](https://github.com/hrbrmstr/newsflash) - tools to work with the Internet Archive and GDELT Television Explorer in R.
-- [newspaper](https://github.com/codelucas/newspaper) - news, full-text, and article metadata extraction in Python 3.
-- [python-goose](https://github.com/grangier/python-goose) - html content and article extractor, web scraping library in Python.
-- [mediacloud](https://github.com/berkmancenter/mediacloud) - open source, open data platform that allows researchers to answer quantitative questions about the content of online media.
+- [newsdiffs](https://github.com/ecprice/newsdiffs) - automatic scraper that tracks changes in news articles over time (Python).
+- [newsflash](https://github.com/hrbrmstr/newsflash) - tools to work with the Internet Archive and GDELT Television Explorer (R).
+- [newspaper](https://github.com/codelucas/newspaper) - news, full-text, and article metadata extraction (Python).
+- [python-goose](https://github.com/grangier/python-goose) - html content and article extractor, web scraping library (Python).
+- [mediacloud](https://github.com/berkmancenter/mediacloud) - open source, open data platform that allows researchers to answer quantitative questions about the content of online media (Perl/Python).
 
 ## Experiments
 
 - [jsPsych](http://www.jspsych.org) ([GitHub](https://github.com/jspsych/jsPsych/)) - JavaScript library for creating and running behavioral experiments in a web browser.
 - [OpenSeasme](http://osdoc.cogsci.nl/about/) - graphical, open-source experiment builder for social sciences. Build complex experiments with minimal effort, create a wide range of experiments. Plug-in framework and Python scripting allows you to incorporate external devices, such as eye trackers, response boxes, and parallel port devices.
 - [PlanOut](https://facebook.github.io/planout/) - framework for online field experiments. Makes it easy to run and iterate on sophisticated experiments in a statistically sound manner while satisfying the constraints of deployed Internet services.
-- [PsychoPy](http://www.psychopy.org/) - allow presentation of stimuli and collection of data for a wide range of neuroscience, psychology and psychophysics experiments. Written in Python.
+- [PsychoPy](http://www.psychopy.org/) - allow presentation of stimuli and collection of data for a wide range of neuroscience, psychology and psychophysics experiments (Python).
 - [WebExp](http://groups.inf.ed.ac.uk/webexp/) - system for conducting psychological experiments over the web.
 - [conjoint-example](https://github.com/leeper/conjoint-example) - example conjoint experimental design in Qualtrics.
 - [PsyToolkit](https://www.psytoolkit.org/) - free toolkit for demonstrating, programming, and running cognitive-psychological experiments and surveys, including personality tests. 

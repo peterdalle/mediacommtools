@@ -100,6 +100,7 @@ Misc:
 
 - [OpenRefine](http://openrefine.org/) - powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data (formerly Google Refine).
 - [Mr. Data Converter](https://shancarter.github.io/mr-data-converter/) - convert Excel data into web-friendly formats (e.g., HTML, JSON, XML).
+- [PSPP File Conversion Service](https://pspp.benpfaff.org/) - convert SPSS (.sav) files to CSV or text format.
 
 ## API:s and documentation
 

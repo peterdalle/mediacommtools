@@ -76,6 +76,12 @@ Misc:
 - [python-goose](https://github.com/grangier/python-goose) - html content and article extractor, web scraping library (Python).
 - [mediacloud](https://github.com/berkmancenter/mediacloud) - open source, open data platform that allows researchers to answer quantitative questions about the content of online media (Perl/Python).
 
+## Wikipedia and Google
+
+- [Pageviews Analysis tool for Wikimedia Foundation wikis](https://tools.wmflabs.org/pageviews/?project=en.wikipedia.org&platform=all-access&agent=user&range=latest-20&pages=Echo_chamber_(media)|Filter_bubble) ([GitHub](https://github.com/MusikAnimal/pageviews)) - number of page views for any Wikipedia page.
+- [Google Trends](https://trends.google.com/trends/) - number of searches for a specific search query.
+- [Google Ngram Viewer](https://books.google.com/ngrams) - shows number of times a phrase have occurred in a books from year 1800 to 2000.
+
 ## Experiments
 
 - [jsPsych](http://www.jspsych.org) ([GitHub](https://github.com/jspsych/jsPsych/)) - JavaScript library for creating and running behavioral experiments in a web browser.

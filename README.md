@@ -55,6 +55,7 @@ Twitter:
 
 - [twarc](https://github.com/DocNow/twarc) - command line tool for archiving Twitter JSON (Python).
 - [tweetbotornot](https://github.com/mkearney/tweetbotornot) - R package for detecting Twitter bots via machine learning.
+- [Twint](https://github.com/twintproject/twint) - Twitter scraping and open source intelligens (OSINT) tool that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations (Python).
 - [Tinfoleak](http://www.vicenteaguileradiaz.com/tools/) ([GitHub](https://github.com/vaguileradiaz/tinfoleak)) - open-source tool for Twitter intelligence analysis (Python).
 - [Tweetbeaver](https://tweetbeaver.com/) - online tool convert @name to ID, check if two accounts follow each other, download a user's favorites, search within a user's favorites, download a user's timeline etc.
 

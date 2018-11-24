@@ -83,6 +83,12 @@ Misc:
 - [Pageviews Analysis tool for Wikimedia Foundation wikis](https://tools.wmflabs.org/pageviews/?project=en.wikipedia.org&platform=all-access&agent=user&range=latest-20&pages=Echo_chamber_(media)|Filter_bubble) ([GitHub](https://github.com/MusikAnimal/pageviews)) - number of page views for any Wikipedia page.
 - [Google Trends](https://trends.google.com/trends/) - number of searches for a specific search query.
 - [Google Ngram Viewer](https://books.google.com/ngrams) - shows number of times a phrase have occurred in a books from year 1800 to 2000.
+- [Lumen database](https://lumendatabase.org/) - collects and analyzes legal complaints and requests for removal of online materials (e.g., Google search results).
+
+## Online archives, archiving
+
+- [Internet Archive](https://archive.org/) - non-profit digital library offering free universal access to books, movies & music, as well as 343 billion archived web pages via [Wayback Machine](https://archive.org/web/).
+- [archive.is](https://archive.is/) - time capsule for web pages that takes a 'snapshot' of a webpage that will always be online even if the original page disappears.
 
 ## Experiments
 

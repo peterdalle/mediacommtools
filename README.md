@@ -33,6 +33,16 @@ Survey data:
 - [Topic Models Learning and R Resources](https://github.com/trinker/topicmodels_learning)
 - [Count Words in a PDF Document](https://leeper.shinyapps.io/pdfcount/) - online tool.
 
+## Compare differences between texts
+
+- [Diff Checker](https://www.diffchecker.com/) - online tool to compare text differences between two text files.
+- [Online LaTeX diff tool](https://3142.nl/latex-diff/) - online tool to compare text differences in LaTeX documents (using [latexdiff](https://ctan.org/pkg/latexdiff)).
+
+## Check for duplicate files
+
+- [Auslogics Duplicate File Finder](https://www.auslogics.com/en/software/duplicate-file-finder/) - Windows program that finds duplicate files regardless of their filenames.
+- [comparefiles](https://github.com/peterdalle/comparefiles) - scans a directory for identical files (Python).
+
 ## Journal articles, citations, bibliometrics
 
 - [journal-spider](https://github.com/chartgerink/journal-spiders) - tools to spider journal websites for links to articles (Python).

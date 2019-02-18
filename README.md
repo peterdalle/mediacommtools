@@ -82,6 +82,7 @@ Misc:
 ## News events
 
 - [GDELT Project](http://gdeltproject.org/) - archives all news media events around the globe.
+- [The Social, Political and Economic Event Database Project (SPEED)](https://clinecenter.illinois.edu/project/human-loop-event-data-projects/SPEED) - comprehensive news sources from 1945 onwards, crawls over 5,000 news feeds in 120 countries several times each day, scraping news reports, totalling over 40 million news reports.
 - [newsdiffs](https://github.com/ecprice/newsdiffs) - automatic scraper that tracks changes in news articles over time (Python).
 - [newsflash](https://github.com/hrbrmstr/newsflash) - tools to work with the Internet Archive and GDELT Television Explorer (R).
 - [newspaper](https://github.com/codelucas/newspaper) - news, full-text, and article metadata extraction (Python).

@@ -16,7 +16,8 @@ Archives and lists:
 - [Consortium of European Social Science Data Archives (CESSDA)](http://cessda.net/)
 - [Inter-university Consortium for Political and Social Research (ICPSR)](http://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp)
 - [Open Stats Lab](https://sites.trinity.edu/osl) data from psychological studies that is intended to be used in education.
-- [Awesome Public Datasets](https://github.com/vnijs/awesome-public-datasets) - awesome list of (large-scale) public datasets on the Internet (on-going collection)
+- [Awesome Public Datasets](https://github.com/vnijs/awesome-public-datasets) - awesome list of (large-scale) public datasets on the Internet (on-going collection).
+- [Common Crawl](http://commoncrawl.org/) - download a copy of the web, several billion web pages (250+ terabyte of data), updated regularly.
 - [Öppna Data](https://oppnadata.se/) - open data in Sweden (from Riksarkivet).
 
 Survey data:

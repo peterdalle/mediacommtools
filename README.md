@@ -224,6 +224,7 @@ Tutorials:
 - [Using Google Trends data for research? Here are 6 questions to ask](https://medium.com/@pewresearch/using-google-trends-data-for-research-here-are-6-questions-to-ask-a7097f5fb526)
 - [Introduction to data management best practices](https://mattiheino.com/2017/09/09/intro-data-management/)
 - [Getting Started in Open Source: A Primer for Data Scientists](http://blog.districtdatalabs.com/getting-started-in-open-source)
+- [Introductory guide to Open Source media network analysis for beginners](https://medium.com/@kesterratcliff/easy-osint-open-source-intelligence-techniques-for-beginners-and-some-links-to-intermediate-and-413f41580b8d)
 
 Literature:
 

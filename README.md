@@ -203,7 +203,7 @@ Convert effect sizes:
 
 ## Open science, pre-registration, code/data sharing
 
-- [Open Science Framework (OSF)](https://osf.io/) - add your research project and collaborate, store data, pre-register and more.
+- [Open Science Framework (OSF)](https://osf.io/) - add your research project and collaborate, store data, pre-register (see [Prereg Challenge](https://osf.io/prereg/)) and more.
 - [As predicted](https://aspredicted.org/) - pre-register your hypothesis test.
 - [figshare](https://figshare.com/) - upload your data and get more citations.
 - [Dataverse](https://dataverse.org/) - open source web app to share, preserve, cite, explore, and analyze research data.

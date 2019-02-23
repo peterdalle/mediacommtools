@@ -201,13 +201,14 @@ Convert effect sizes:
 - [Digital Methods Initiative](https://wiki.digitalmethods.net/Dmi/) ([GitHub](https://github.com/digitalmethodsinitiative)) - contribution to doing research into the "natively digital".
 - [DocNow](https://www.docnow.io/) - tool/community that supports ethical collection, use, and preservation of social media content.
 
-## Open science, pre-registration, code/data sharing
+## Open science, preregistration, code/data sharing
 
-- [Open Science Framework (OSF)](https://osf.io/) - add your research project and collaborate, store data, pre-register (see [Prereg Challenge](https://osf.io/prereg/)) and more.
-- [As predicted](https://aspredicted.org/) - pre-register your hypothesis test.
+- [Open Science Framework (OSF)](https://osf.io/) - add your research project and collaborate, store data, preregister (see [Prereg Challenge](https://osf.io/prereg/)) and more.
+- [As predicted](https://aspredicted.org/) - preregister your hypothesis test.
 - [figshare](https://figshare.com/) - upload your data and get more citations.
 - [Dataverse](https://dataverse.org/) - open source web app to share, preserve, cite, explore, and analyze research data.
 - [SocArxiv](https://osf.io/preprints/socarxiv) - share your manuscript and get feedback as a pre-print before journal publication.
+- [Collection of preregistered studies](https://www.zotero.org/groups/479248/osf/items/collectionKey/VKXUAZM7) from OSF. See also [Registered Protocols](https://www.zotero.org/groups/479248/osf/items/collectionKey/G64VMW96) and [Registered Reports](https://www.zotero.org/groups/479248/osf/items/collectionKey/KEJP68G9).
 
 ## See also
 

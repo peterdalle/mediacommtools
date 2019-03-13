@@ -70,6 +70,7 @@ Twitter:
 - [Tinfoleak](http://www.vicenteaguileradiaz.com/tools/) ([GitHub](https://github.com/vaguileradiaz/tinfoleak)) - open-source tool for Twitter intelligence analysis (Python).
 - [Tweetbeaver](https://tweetbeaver.com/) - online tool convert @name to ID, check if two accounts follow each other, download a user's favorites, search within a user's favorites, download a user's timeline etc.
 - [scrape-twitter](https://github.com/sebinsua/scrape-twitter) - Command line interfaces to scrape profiles, timelines, connections, likes, search and conversations with the use of API (Node.JS).
+- [Chorus](http://chorusanalytics.co.uk/) - free Twitter harvesting and visual analytics suite for social science research.
 
 Misc:
 

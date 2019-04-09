@@ -53,6 +53,12 @@ Survey data:
 - [metaknowledge](http://networkslab.org/metaknowledge/) - Python 3 package computational research in bibliometrics, scientometrics, and network analysis.
 - [pdfx](https://github.com/metachris/pdfx) - extract references (pdf, url, doi, arxiv) and metadata from a PDF. Download all referenced PDFs (Python).
 
+Retractions:
+
+- https://retractionwatch.com/
+- http://retractiondatabase.org/
+- http://openretractions.com/
+
 ## Social networking sites
 
 Facebook:

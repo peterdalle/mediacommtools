@@ -128,7 +128,7 @@ Misc:
 - [Dia](http://dia-installer.de/) - app to draw structured diagrams.
 - [Gephi](https://gephi.org/) - visualization and exploration app for all kinds of graphs and networks.
 - [QGIS](http://www.qgis.org/) - free and open source geographic information system app.
-- [Inkspace](https://inkspace.org/) - free and open source desktop program to draw vector graphics (like Adobe Illustrator).
+- [Inkscape](https://inkscape.org/) - free and open source desktop program to draw vector graphics (like Adobe Illustrator).
 
 ## Convert and clean data
 

@@ -129,6 +129,7 @@ Misc:
 - [Gephi](https://gephi.org/) - visualization and exploration app for all kinds of graphs and networks.
 - [QGIS](http://www.qgis.org/) - free and open source geographic information system app.
 - [Inkscape](https://inkscape.org/) - free and open source desktop program to draw vector graphics (like Adobe Illustrator).
+- [From Data to Viz](https://www.data-to-viz.com/) - leads you to the most appropriate graph for your data, links to the code to build it and lists common caveats you should avoid.
 
 ## Convert and clean data
 

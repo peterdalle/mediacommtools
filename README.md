@@ -87,15 +87,19 @@ Misc:
 
 - [GoogleScraper](https://github.com/NikolaiT/GoogleScraper) - scrape search engines (e.g., Google, Yandex, Bing, Duckduckgo, Baidu) by using proxies (socks4/5, http proxy) and many IP's, including asynchronous networking support (Python).
 
-## News events
+## News articles and events
 
 - [GDELT Project](http://gdeltproject.org/) - archives all news media events around the globe.
 - [The Social, Political and Economic Event Database Project (SPEED)](https://clinecenter.illinois.edu/project/human-loop-event-data-projects/SPEED) - comprehensive news sources from 1945 onwards, crawls over 5,000 news feeds in 120 countries several times each day, scraping news reports, totalling over 40 million news reports.
+- [mediacloud](https://github.com/berkmancenter/mediacloud) - open source, open data platform that allows researchers to answer quantitative questions about the content of online media (Perl/Python).
+- [Trove](https://trove.nla.gov.au/) - Find and get Australian and online resources: books, images, historic newspapers, maps, music, archives and more.
+
+## News apps
+
 - [newsdiffs](https://github.com/ecprice/newsdiffs) - automatic scraper that tracks changes in news articles over time (Python).
 - [newsflash](https://github.com/hrbrmstr/newsflash) - tools to work with the Internet Archive and GDELT Television Explorer (R).
 - [newspaper](https://github.com/codelucas/newspaper) - news, full-text, and article metadata extraction (Python).
 - [python-goose](https://github.com/grangier/python-goose) - html content and article extractor, web scraping library (Python).
-- [mediacloud](https://github.com/berkmancenter/mediacloud) - open source, open data platform that allows researchers to answer quantitative questions about the content of online media (Perl/Python).
 
 ## Wikipedia and Google
 

@@ -78,6 +78,10 @@ Twitter:
 - [scrape-twitter](https://github.com/sebinsua/scrape-twitter) - Command line interfaces to scrape profiles, timelines, connections, likes, search and conversations with the use of API (Node.JS).
 - [Chorus](http://chorusanalytics.co.uk/) - free Twitter harvesting and visual analytics suite for social science research.
 
+YouTube:
+
+- [YouTube comment scraper](http://ytcomments.klostermann.ca/scrape) - online tool that scrape comments from YouTube videos, download comments as JSON or CSV.
+
 Misc:
 
 - [Creepy](http://www.geocreepy.com) ([GitHub](https://github.com/ilektrojohn/creepy)) - a geolocation OSINT tool. Offers geolocation information gathering through social networking platforms (Python). 

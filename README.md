@@ -126,6 +126,7 @@ Misc:
 - [WebExp](http://groups.inf.ed.ac.uk/webexp/) - system for conducting psychological experiments over the web.
 - [conjoint-example](https://github.com/leeper/conjoint-example) - example conjoint experimental design in Qualtrics.
 - [PsyToolkit](https://www.psytoolkit.org/) - free toolkit for demonstrating, programming, and running cognitive-psychological experiments and surveys, including personality tests. 
+- [Empirica](https://empirica.ly/) - open-source JavaScript framework for running multiplayer interactive experiments and games in the browser.
 
 ## Surveys
 

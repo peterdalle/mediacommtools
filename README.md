@@ -31,28 +31,28 @@ Survey data:
 ## Content analysis, text analysis, text mining
 
 - [Text Mining for Social Scientists and Digital Humanists](https://tm4ss.github.io/docs/) ([GitHub](https://github.com/tm4ss/tm4ss.github.io)) (R)
-- [Lexicoder](http://www.lexicoder.com/) - Java-based, multi-platform software for automated content analysis of text (McGill, Michigan, Penn University).
-- [SentimentAnalysis](https://github.com/sfeuerriegel/SentimentAnalysis) - performs sentiment analysis of textual contents in R.
+- [Lexicoder](http://www.lexicoder.com/) - multi-platform software for automated content analysis of text (Java).
+- [SentimentAnalysis](https://github.com/sfeuerriegel/SentimentAnalysis) - sentiment analysis of text (R).
 - [Topic Models Learning and R Resources](https://github.com/trinker/topicmodels_learning)
-- [Count Words in a PDF Document](https://leeper.shinyapps.io/pdfcount/) - online tool.
+- [Count Words in a PDF Document](https://leeper.shinyapps.io/pdfcount/) (online tool).
 
 ## Compare differences between texts
 
-- [Diff Checker](https://www.diffchecker.com/) - online tool to compare text differences between two text files.
-- [Online LaTeX diff tool](https://3142.nl/latex-diff/) - online tool to compare text differences in LaTeX documents (using [latexdiff](https://ctan.org/pkg/latexdiff)).
+- [Diff Checker](https://www.diffchecker.com/) - compare two texts for differences (online tool).
+- [Online LaTeX diff tool](https://3142.nl/latex-diff/) - to compare text differences in LaTeX documents using [latexdiff](https://ctan.org/pkg/latexdiff) (online tool).
 
 ## Check for duplicate files
 
-- [Auslogics Duplicate File Finder](https://www.auslogics.com/en/software/duplicate-file-finder/) - Windows program that finds duplicate files regardless of their filenames.
-- [comparefiles](https://github.com/peterdalle/comparefiles) - scans a directory for identical files (Python).
+- [Auslogics Duplicate File Finder](https://www.auslogics.com/en/software/duplicate-file-finder/) - finds duplicate files regardless of their filenames (Windows app).
+- [comparefiles](https://github.com/peterdalle/comparefiles) - scans a directory for identical files or similar text files (Python).
 
 ## Journal articles, citations, bibliometrics
 
 - [journal-spider](https://github.com/chartgerink/journal-spiders) - tools to spider journal websites for links to articles (Python).
 - [Claim Extraction for Scientific Publications](https://github.com/titipata/detecting-scientific-claim) - detect claims (e.g. "background", "conclusion") from scientific publication using discourse and sentence embedding (Python).
 - [scholar.py](https://github.com/ckreibich/scholar.py) - parser for Google Scholar (Python).
-- [OpenCitations](http://opencitations.net/) - API to search and browse OpenCitations Corpus (OCC) of open downloadable bibliographic and citation data recorded in RDF (online).
-- [metaknowledge](http://networkslab.org/metaknowledge/) - Python 3 package computational research in bibliometrics, scientometrics, and network analysis.
+- [OpenCitations](http://opencitations.net/) - search and browse OpenCitations Corpus (OCC) of open downloadable bibliographic and citation data recorded in RDF (online API).
+- [metaknowledge](http://networkslab.org/metaknowledge/) - computational research in bibliometrics, scientometrics, and network analysis (Python).
 - [pdfx](https://github.com/metachris/pdfx) - extract references (pdf, url, doi, arxiv) and metadata from a PDF. Download all referenced PDFs (Python).
 
 Retractions:
@@ -73,16 +73,16 @@ Facebook:
 Twitter:
 
 - [twarc](https://github.com/DocNow/twarc) - command line tool for archiving Twitter JSON (Python).
-- [tweetbotornot](https://github.com/mkearney/tweetbotornot) - R package for detecting Twitter bots via machine learning.
+- [tweetbotornot](https://github.com/mkearney/tweetbotornot) - detect Twitter bots via machine learning (R).
 - [Twint](https://github.com/twintproject/twint) - Twitter scraping and open source intelligens (OSINT) tool that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations (Python).
 - [Tinfoleak](http://www.vicenteaguileradiaz.com/tools/) ([GitHub](https://github.com/vaguileradiaz/tinfoleak)) - open-source tool for Twitter intelligence analysis (Python).
-- [Tweetbeaver](https://tweetbeaver.com/) - online tool convert @name to ID, check if two accounts follow each other, download a user's favorites, search within a user's favorites, download a user's timeline etc.
-- [scrape-twitter](https://github.com/sebinsua/scrape-twitter) - Command line interfaces to scrape profiles, timelines, connections, likes, search and conversations with the use of API (Node.JS).
-- [Chorus](http://chorusanalytics.co.uk/) - free Twitter harvesting and visual analytics suite for social science research.
+- [Tweetbeaver](https://tweetbeaver.com/) - convert @name to ID, check if two accounts follow each other, download a user's favorites, search within a user's favorites, download a user's timeline etc (online tool).
+- [scrape-twitter](https://github.com/sebinsua/scrape-twitter) - Command line interfaces to scrape profiles, timelines, connections, likes, search and conversations with the use of API (Node.js).
+- [Chorus](http://chorusanalytics.co.uk/) - free Twitter harvesting and visual analytics suite for social science research (Windows).
 
 YouTube:
 
-- [YouTube comment scraper](http://ytcomments.klostermann.ca/scrape) - online tool that scrape comments from YouTube videos, download comments as JSON or CSV.
+- [YouTube comment scraper](http://ytcomments.klostermann.ca/scrape) - scrape comments from YouTube videos, download comments as JSON or CSV (online tool).
 
 Misc:
 
@@ -101,15 +101,15 @@ Misc:
 - [Trove](https://trove.nla.gov.au/) - Find and get Australian and online resources: books, images, historic newspapers, maps, music, archives and more.
 - [newsdiffs](https://github.com/ecprice/newsdiffs) - automatic scraper that tracks changes in news articles over time (Python).
 - [newsflash](https://github.com/hrbrmstr/newsflash) - tools to work with the Internet Archive and GDELT Television Explorer (R).
-- [newspaper](https://github.com/codelucas/newspaper) - news, full-text, and article metadata extraction (Python). Based on [python-goose](https://github.com/grangier/python-goose).
+- [newspaper](https://github.com/codelucas/newspaper) - news, full-text, and article metadata extraction, based on [python-goose](https://github.com/grangier/python-goose) (Python).
 - [Newsmap](https://github.com/koheiw/newsmap) - semi-supervised geographical news classifier (R). [Journal article](https://doi.org/10.1080/21670811.2017.1293487).
 
 ## Wikipedia and Google
 
-- [Pageviews Analysis tool for Wikimedia Foundation wikis](https://tools.wmflabs.org/pageviews/?project=en.wikipedia.org&platform=all-access&agent=user&range=latest-20&pages=Echo_chamber_(media)|Filter_bubble) ([GitHub](https://github.com/MusikAnimal/pageviews)) - number of page views for any Wikipedia page.
-- [Google Trends](https://trends.google.com/trends/) - number of searches for a specific search query.
-- [Google Ngram Viewer](https://books.google.com/ngrams) - shows number of times a phrase have occurred in a books from year 1800 to 2000.
-- [Lumen database](https://lumendatabase.org/) - collects and analyzes legal complaints and requests for removal of online materials (e.g., Google search results).
+- [Pageviews Analysis tool for Wikimedia Foundation wikis](https://tools.wmflabs.org/pageviews/?project=en.wikipedia.org&platform=all-access&agent=user&range=latest-20&pages=Echo_chamber_(media)|Filter_bubble) ([GitHub](https://github.com/MusikAnimal/pageviews)) - number of page views for any Wikipedia page (online tool, PHP).
+- [Google Trends](https://trends.google.com/trends/) - number of searches for a specific search query (online tool).
+- [Google Ngram Viewer](https://books.google.com/ngrams) - shows number of times a phrase have occurred in a books from year 1800 to 2000 (online tool).
+- [Lumen database](https://lumendatabase.org/) - collects and analyzes legal complaints and requests for removal of online materials such as Google search results (online tool).
 
 ## Web scraping
 
@@ -117,37 +117,38 @@ Misc:
 
 ## Online archives, archiving
 
-- [Internet Archive](https://archive.org/) - non-profit digital library offering free universal access to books, movies & music, as well as 343 billion archived web pages via [Wayback Machine](https://archive.org/web/).
-- [archive.is](https://archive.is/) - time capsule for web pages that takes a 'snapshot' of a webpage that will always be online even if the original page disappears.
+- [Internet Archive](https://archive.org/) - non-profit digital library offering free universal access to books, movies & music (online tool).
+- [Wayback Machine](https://archive.org/web/) - 343 billion archived web pages from Internet Archive (online tool).
+- [archive.is](https://archive.is/) - take a snapshot of a webpage that will always be online even if the original page disappears (online tool).
 
 ## Experiments
 
-- [jsPsych](http://www.jspsych.org) ([GitHub](https://github.com/jspsych/jsPsych/)) - JavaScript library for creating and running behavioral experiments in a web browser.
-- [OpenSeasme](http://osdoc.cogsci.nl/about/) - graphical, open-source experiment builder for social sciences. Build complex experiments with minimal effort, create a wide range of experiments. Plug-in framework and Python scripting allows you to incorporate external devices, such as eye trackers, response boxes, and parallel port devices.
-- [PlanOut](https://facebook.github.io/planout/) - framework for online field experiments. Makes it easy to run and iterate on sophisticated experiments in a statistically sound manner while satisfying the constraints of deployed Internet services.
+- [jsPsych](http://www.jspsych.org) ([GitHub](https://github.com/jspsych/jsPsych/)) - library for creating and running behavioral experiments in a web browser (JavaScript).
+- [OpenSeasme](http://osdoc.cogsci.nl/about/) - graphical, open-source experiment builder for social sciences. Build complex experiments with minimal effort, create a wide range of experiments. Plug-in framework and Python scripting allows you to incorporate external devices, such as eye trackers, response boxes, and parallel port devices (Windows/Mac/Linux).
+- [PlanOut](https://facebook.github.io/planout/) - framework for online field experiments. Makes it easy to run and iterate on sophisticated experiments in a statistically sound manner while satisfying the constraints of deployed Internet services (Python/JS/Java/PHP/Go/Lua/Ruby).
 - [PsychoPy](http://www.psychopy.org/) - allow presentation of stimuli and collection of data for a wide range of neuroscience, psychology and psychophysics experiments (Python).
-- [WebExp](http://groups.inf.ed.ac.uk/webexp/) - system for conducting psychological experiments over the web.
+- [WebExp](http://groups.inf.ed.ac.uk/webexp/) - system for conducting psychological experiments over the web (Java).
 - [conjoint-example](https://github.com/leeper/conjoint-example) - example conjoint experimental design in Qualtrics.
-- [PsyToolkit](https://www.psytoolkit.org/) - free toolkit for demonstrating, programming, and running cognitive-psychological experiments and surveys, including personality tests. 
-- [Empirica](https://empirica.ly/) - open-source JavaScript framework for running multiplayer interactive experiments and games in the browser.
+- [PsyToolkit](https://www.psytoolkit.org/) - free toolkit for demonstrating, programming, and running cognitive-psychological experiments and surveys, including personality tests (online tool).
+- [Empirica](https://empirica.ly/) - framework for running multiplayer interactive experiments and games in the browser (JavaScript).
 
 ## Surveys
 
-- [qualtRics](https://github.com/ropensci/qualtRics) - Download qualtrics survey data directly into R.
+- [qualtRics](https://github.com/ropensci/qualtRics) - Download and import qualtrics survey data directly (R).
 
 ## Graphics, maps, network visualizations
 
-- [Dia](http://dia-installer.de/) - app to draw structured diagrams.
-- [Gephi](https://gephi.org/) - visualization and exploration app for all kinds of graphs and networks.
-- [QGIS](http://www.qgis.org/) - free and open source geographic information system app.
-- [Inkscape](https://inkscape.org/) - free and open source desktop program to draw vector graphics (like Adobe Illustrator).
-- [From Data to Viz](https://www.data-to-viz.com/) - leads you to the most appropriate graph for your data, links to the code to build it and lists common caveats you should avoid.
+- [Dia](http://dia-installer.de/) - app to draw structured diagrams (Windows/Mac/Linux).
+- [Gephi](https://gephi.org/) - visualization and exploration app for all kinds of graphs and networks (Windows/Mac/Linux).
+- [QGIS](http://www.qgis.org/) - free and open source geographic information system app (Windows/Mac/Linux).
+- [Inkscape](https://inkscape.org/) - free and open source desktop program to draw vector graphics like Adobe Illustrator (Windows/Mac/Linux).
+- [From Data to Viz](https://www.data-to-viz.com/) - leads you to the most appropriate graph for your data, links to the code to build it and lists common caveats you should avoid (online tool).
 
 ## Convert and clean data
 
-- [OpenRefine](http://openrefine.org/) - powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data (formerly Google Refine).
-- [Mr. Data Converter](https://shancarter.github.io/mr-data-converter/) - convert Excel data into web-friendly formats (e.g., HTML, JSON, XML).
-- [PSPP File Conversion Service](https://pspp.benpfaff.org/) - convert SPSS (.sav) files to CSV or text format.
+- [OpenRefine](http://openrefine.org/) - powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data, formerly called Google Refine (Windows/Mac/Linux).
+- [Mr. Data Converter](https://shancarter.github.io/mr-data-converter/) - convert Excel data into web-friendly formats such as HTML, JSON and XML (online tool).
+- [PSPP File Conversion Service](https://pspp.benpfaff.org/) - convert SPSS (.sav) files to CSV or text format (online tool).
 
 ## API:s and documentation
 

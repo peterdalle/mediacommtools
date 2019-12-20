@@ -22,6 +22,8 @@ Archives and lists:
 
 Survey data:
 
+- [European Social Survey](http://www.europeansocialsurvey.org/) - survey conducted across Europe since 2001. Face-to-face interviews every two years on new cross-sectional samples.
+- [European Values Study](https://europeanvaluesstudy.eu/) - large-scale, cross-national survey since 1981 about basic human values (e.g., ideas, beliefs, preferences, attitudes). New surveys every nine years.
 - [The General Social Survey 1972–](http://gss.norc.org/) (USA)
 - [Latin American Public Opinion Project](https://www.vanderbilt.edu/lapop/raw-data.php) (North and South America)
 - [SOM Institute 1986–](https://snd.gu.se/sv/catalogue/search/SOM) (Sweden)

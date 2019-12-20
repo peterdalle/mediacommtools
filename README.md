@@ -77,6 +77,7 @@ Survey data:
 - [Lumen database](https://lumendatabase.org/) - collects and analyzes legal complaints and requests for removal of online materials such as Google search results (online tool).
 - [Google Books](https://developers.google.com/books/docs/v1/getting_started) - search for books (online API).
 - [YouTube comment scraper](http://ytcomments.klostermann.ca/scrape) - scrape comments from YouTube videos, download comments as JSON or CSV (online tool).
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - download YouTube videos or videos from other sites (Python).
 
 ### Misc sites
 

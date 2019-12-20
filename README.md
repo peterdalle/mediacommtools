@@ -69,7 +69,7 @@ Survey data:
 - [Pageviews Analysis tool for Wikimedia Foundation wikis](https://tools.wmflabs.org/pageviews/?project=en.wikipedia.org&platform=all-access&agent=user&range=latest-20&pages=Echo_chamber_(media)|Filter_bubble) ([GitHub](https://github.com/MusikAnimal/pageviews)) - number of page views for any Wikipedia page (online tool, PHP).
 - [WikiMedia REST API](https://www.mediawiki.org/wiki/REST_API) - access to Wikipedia content, data, and statistics (online API).
 
-## Google
+### Google
 
 - [Google Trends](https://trends.google.com/trends/) - number of searches for a specific search query (online tool).
 - [Google Ngram Viewer](https://books.google.com/ngrams) - shows number of times a phrase have occurred in a books from year 1800 to 2000 (online tool).

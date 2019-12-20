@@ -36,15 +36,75 @@ Survey data:
 - [Topic Models Learning and R Resources](https://github.com/trinker/topicmodels_learning)
 - [Count Words in a PDF Document](https://leeper.shinyapps.io/pdfcount/) (online tool).
 
-## Compare differences between texts
+## Compare differences between texts, find duplicate files
 
 - [Diff Checker](https://www.diffchecker.com/) - compare two texts for differences (online tool).
 - [Online LaTeX diff tool](https://3142.nl/latex-diff/) - to compare text differences in LaTeX documents using [latexdiff](https://ctan.org/pkg/latexdiff) (online tool).
-
-## Check for duplicate files
-
 - [Auslogics Duplicate File Finder](https://www.auslogics.com/en/software/duplicate-file-finder/) - finds duplicate files regardless of their filenames (Windows app).
 - [comparefiles](https://github.com/peterdalle/comparefiles) - scans a directory for identical files or similar text files (Python).
+
+## Social networking sites and specific sites
+
+### Facebook
+
+- [Facepager](https://github.com/strohne/Facepager) - fetches publicly available data from Facebook, Twitter and other JSON-based API:s (Python).
+- [facebook-page-post-scraper](https://github.com/minimaxir/facebook-page-post-scraper) - data scraper for Facebook Pages (Python).
+- [PolitEcho](http://politecho.org ) ([GitHub](https://github.com/politecho/politecho)) - shows you the political biases of your Facebook friends and news feed (Chrome extension).
+- [netvizz](https://github.com/bernorieder/netvizz) - collection of scripts that help with downloading data from the Facebook platform for research purposes (important about Facebook API changes, read [Facebook’s app review and how independent research just got a lot harder](http://thepoliticsofsystems.net/2018/08/facebooks-app-review-and-how-independent-research-just-got-a-lot-harder/)).
+- [Facebook API](https://developers.facebook.com/).
+
+### Twitter
+
+- [twarc](https://github.com/DocNow/twarc) - command line tool for archiving Twitter JSON (Python).
+- [tweetbotornot](https://github.com/mkearney/tweetbotornot) - detect Twitter bots via machine learning (R).
+- [Twint](https://github.com/twintproject/twint) - Twitter scraping and open source intelligens (OSINT) tool that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations (Python).
+- [Tinfoleak](http://www.vicenteaguileradiaz.com/tools/) ([GitHub](https://github.com/vaguileradiaz/tinfoleak)) - open-source tool for Twitter intelligence analysis (Python).
+- [Tweetbeaver](https://tweetbeaver.com/) - convert @name to ID, check if two accounts follow each other, download a user's favorites, search within a user's favorites, download a user's timeline etc (online tool).
+- [scrape-twitter](https://github.com/sebinsua/scrape-twitter) - Command line interfaces to scrape profiles, timelines, connections, likes, search and conversations with the use of API (Node.js).
+- [Chorus](http://chorusanalytics.co.uk/) - free Twitter harvesting and visual analytics suite for social science research (Windows).
+- [Twitter API](https://developer.twitter.com/).
+
+### Wikipedia
+
+- [Pageviews Analysis tool for Wikimedia Foundation wikis](https://tools.wmflabs.org/pageviews/?project=en.wikipedia.org&platform=all-access&agent=user&range=latest-20&pages=Echo_chamber_(media)|Filter_bubble) ([GitHub](https://github.com/MusikAnimal/pageviews)) - number of page views for any Wikipedia page (online tool, PHP).
+- [WikiMedia REST API](https://www.mediawiki.org/wiki/REST_API) - access to Wikipedia content, data, and statistics (online API).
+
+## Google
+
+- [Google Trends](https://trends.google.com/trends/) - number of searches for a specific search query (online tool).
+- [Google Ngram Viewer](https://books.google.com/ngrams) - shows number of times a phrase have occurred in a books from year 1800 to 2000 (online tool).
+- [GoogleScraper](https://github.com/NikolaiT/GoogleScraper) - scrape search engines (e.g., Google, Yandex, Bing, Duckduckgo, Baidu) by using proxies (socks4/5, http proxy) and many IP's, including asynchronous networking support (Python).
+- [Lumen database](https://lumendatabase.org/) - collects and analyzes legal complaints and requests for removal of online materials such as Google search results (online tool).
+- [Google Books](https://developers.google.com/books/docs/v1/getting_started) - search for books (online API).
+- [YouTube comment scraper](http://ytcomments.klostermann.ca/scrape) - scrape comments from YouTube videos, download comments as JSON or CSV (online tool).
+
+### Misc sites
+
+- [Creepy](http://www.geocreepy.com) ([GitHub](https://github.com/ilektrojohn/creepy)) - a geolocation OSINT tool. Offers geolocation information gathering through social networking platforms (Python). 
+- [flashback](https://github.com/miroli/flashback) - scrapes Swedish Flashback forum https://www.flashback.org/ (Python).
+- [Instagram API](https://instagram.com/developer) (online API).
+- [New York Times API](http://developer.nytimes.com/) - latest articles, top articles, book bestsellers, search articles from year 1851, and more (online API).
+- [OMDb API](http://www.omdbapi.com/) - obtain movie information, content and images mainted by users (online API).
+- [Rotten Tomatoes API](http://developer.rottentomatoes.com/io-docs/docs) - movie reviews (online API).
+- See also [any-api.com](https://any-api.com/).
+
+## Scrape and extract news articles
+
+- [GDELT Project](http://gdeltproject.org/) - archives all news media events around the globe.
+- [The Social, Political and Economic Event Database Project (SPEED)](https://clinecenter.illinois.edu/project/human-loop-event-data-projects/SPEED) - comprehensive news sources from 1945 onwards, crawls over 5,000 news feeds in 120 countries several times each day, scraping news reports, totalling over 40 million news reports.
+- [mediacloud](https://github.com/berkmancenter/mediacloud) - open source, open data platform that allows researchers to answer quantitative questions about the content of online media (Perl/Python).
+- [Trove](https://trove.nla.gov.au/) - Find and get Australian and online resources: books, images, historic newspapers, maps, music, archives and more.
+- [newsdiffs](https://github.com/ecprice/newsdiffs) - automatic scraper that tracks changes in news articles over time (Python).
+- [newsflash](https://github.com/hrbrmstr/newsflash) - tools to work with the Internet Archive and GDELT Television Explorer (R).
+- [newspaper](https://github.com/codelucas/newspaper) - news, full-text, and article metadata extraction, based on [python-goose](https://github.com/grangier/python-goose) (Python).
+- [Newsmap](https://github.com/koheiw/newsmap) - semi-supervised geographical news classifier (R). [Journal article](https://doi.org/10.1080/21670811.2017.1293487).
+- [Scrapy](https://github.com/scrapy/scrapy) - fast high-level web crawling and web scraping framework (Python).
+
+## Online archives and archiving
+
+- [Internet Archive](https://archive.org/) - non-profit digital library offering free universal access to books, movies & music (online tool).
+- [Wayback Machine](https://archive.org/web/) - 343 billion archived web pages from Internet Archive (online tool).
+- [archive.is](https://archive.is/) - take a snapshot of a webpage that will always be online even if the original page disappears (online tool).
 
 ## Journal articles, citations, bibliometrics
 
@@ -61,67 +121,7 @@ Retractions:
 - http://retractiondatabase.org/
 - http://openretractions.com/
 
-## Social networking sites
-
-Facebook:
-
-- [Facepager](https://github.com/strohne/Facepager) - fetches publicly available data from Facebook, Twitter and other JSON-based API:s (Python).
-- [facebook-page-post-scraper](https://github.com/minimaxir/facebook-page-post-scraper) - data scraper for Facebook Pages (Python).
-- [PolitEcho](http://politecho.org ) ([GitHub](https://github.com/politecho/politecho)) - shows you the political biases of your Facebook friends and news feed (Chrome extension).
-- [netvizz](https://github.com/bernorieder/netvizz) - collection of scripts that help with downloading data from the Facebook platform for research purposes (important about Facebook API changes, read [Facebook’s app review and how independent research just got a lot harder](http://thepoliticsofsystems.net/2018/08/facebooks-app-review-and-how-independent-research-just-got-a-lot-harder/)).
-
-Twitter:
-
-- [twarc](https://github.com/DocNow/twarc) - command line tool for archiving Twitter JSON (Python).
-- [tweetbotornot](https://github.com/mkearney/tweetbotornot) - detect Twitter bots via machine learning (R).
-- [Twint](https://github.com/twintproject/twint) - Twitter scraping and open source intelligens (OSINT) tool that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations (Python).
-- [Tinfoleak](http://www.vicenteaguileradiaz.com/tools/) ([GitHub](https://github.com/vaguileradiaz/tinfoleak)) - open-source tool for Twitter intelligence analysis (Python).
-- [Tweetbeaver](https://tweetbeaver.com/) - convert @name to ID, check if two accounts follow each other, download a user's favorites, search within a user's favorites, download a user's timeline etc (online tool).
-- [scrape-twitter](https://github.com/sebinsua/scrape-twitter) - Command line interfaces to scrape profiles, timelines, connections, likes, search and conversations with the use of API (Node.js).
-- [Chorus](http://chorusanalytics.co.uk/) - free Twitter harvesting and visual analytics suite for social science research (Windows).
-
-YouTube:
-
-- [YouTube comment scraper](http://ytcomments.klostermann.ca/scrape) - scrape comments from YouTube videos, download comments as JSON or CSV (online tool).
-
-Misc:
-
-- [Creepy](http://www.geocreepy.com) ([GitHub](https://github.com/ilektrojohn/creepy)) - a geolocation OSINT tool. Offers geolocation information gathering through social networking platforms (Python). 
-- [flashback](https://github.com/miroli/flashback) - scrapes Swedish Flashback forum https://www.flashback.org/ (Python).
-
-## Search engine results
-
-- [GoogleScraper](https://github.com/NikolaiT/GoogleScraper) - scrape search engines (e.g., Google, Yandex, Bing, Duckduckgo, Baidu) by using proxies (socks4/5, http proxy) and many IP's, including asynchronous networking support (Python).
-
-## News articles and events
-
-- [GDELT Project](http://gdeltproject.org/) - archives all news media events around the globe.
-- [The Social, Political and Economic Event Database Project (SPEED)](https://clinecenter.illinois.edu/project/human-loop-event-data-projects/SPEED) - comprehensive news sources from 1945 onwards, crawls over 5,000 news feeds in 120 countries several times each day, scraping news reports, totalling over 40 million news reports.
-- [mediacloud](https://github.com/berkmancenter/mediacloud) - open source, open data platform that allows researchers to answer quantitative questions about the content of online media (Perl/Python).
-- [Trove](https://trove.nla.gov.au/) - Find and get Australian and online resources: books, images, historic newspapers, maps, music, archives and more.
-- [newsdiffs](https://github.com/ecprice/newsdiffs) - automatic scraper that tracks changes in news articles over time (Python).
-- [newsflash](https://github.com/hrbrmstr/newsflash) - tools to work with the Internet Archive and GDELT Television Explorer (R).
-- [newspaper](https://github.com/codelucas/newspaper) - news, full-text, and article metadata extraction, based on [python-goose](https://github.com/grangier/python-goose) (Python).
-- [Newsmap](https://github.com/koheiw/newsmap) - semi-supervised geographical news classifier (R). [Journal article](https://doi.org/10.1080/21670811.2017.1293487).
-
-## Wikipedia and Google
-
-- [Pageviews Analysis tool for Wikimedia Foundation wikis](https://tools.wmflabs.org/pageviews/?project=en.wikipedia.org&platform=all-access&agent=user&range=latest-20&pages=Echo_chamber_(media)|Filter_bubble) ([GitHub](https://github.com/MusikAnimal/pageviews)) - number of page views for any Wikipedia page (online tool, PHP).
-- [Google Trends](https://trends.google.com/trends/) - number of searches for a specific search query (online tool).
-- [Google Ngram Viewer](https://books.google.com/ngrams) - shows number of times a phrase have occurred in a books from year 1800 to 2000 (online tool).
-- [Lumen database](https://lumendatabase.org/) - collects and analyzes legal complaints and requests for removal of online materials such as Google search results (online tool).
-
-## Web scraping
-
-- [Scrapy](https://github.com/scrapy/scrapy) - fast high-level web crawling and web scraping framework (Python).
-
-## Online archives, archiving
-
-- [Internet Archive](https://archive.org/) - non-profit digital library offering free universal access to books, movies & music (online tool).
-- [Wayback Machine](https://archive.org/web/) - 343 billion archived web pages from Internet Archive (online tool).
-- [archive.is](https://archive.is/) - take a snapshot of a webpage that will always be online even if the original page disappears (online tool).
-
-## Experiments
+## Behavioral and cognitive experiments
 
 - [jsPsych](http://www.jspsych.org) ([GitHub](https://github.com/jspsych/jsPsych/)) - library for creating and running behavioral experiments in a web browser (JavaScript).
 - [OpenSeasme](http://osdoc.cogsci.nl/about/) - graphical, open-source experiment builder for social sciences. Build complex experiments with minimal effort, create a wide range of experiments. Plug-in framework and Python scripting allows you to incorporate external devices, such as eye trackers, response boxes, and parallel port devices (Windows/Mac/Linux).
@@ -132,11 +132,7 @@ Misc:
 - [PsyToolkit](https://www.psytoolkit.org/) - free toolkit for demonstrating, programming, and running cognitive-psychological experiments and surveys, including personality tests (online tool).
 - [Empirica](https://empirica.ly/) - framework for running multiplayer interactive experiments and games in the browser (JavaScript).
 
-## Surveys
-
-- [qualtRics](https://github.com/ropensci/qualtRics) - Download and import qualtrics survey data directly (R).
-
-## Graphics, maps, network visualizations
+## Graphics, network visualizations and maps
 
 - [Dia](http://dia-installer.de/) - app to draw structured diagrams (Windows/Mac/Linux).
 - [Gephi](https://gephi.org/) - visualization and exploration app for all kinds of graphs and networks (Windows/Mac/Linux).
@@ -150,26 +146,17 @@ Misc:
 - [Mr. Data Converter](https://shancarter.github.io/mr-data-converter/) - convert Excel data into web-friendly formats such as HTML, JSON and XML (online tool).
 - [PSPP File Conversion Service](https://pspp.benpfaff.org/) - convert SPSS (.sav) files to CSV or text format (online tool).
 
-## API:s and documentation
-
-- [Facebook API](https://developers.facebook.com/).
-- [Google Books](https://developers.google.com/books/docs/v1/getting_started) - search for books.
-- [Instagram](https://instagram.com/developer).
-- [New York Times](http://developer.nytimes.com/) - latest articles, top articles, book bestsellers, search articles from year 1851, and more.
-- [OMDb API](http://www.omdbapi.com/) - obtain movie information, content and images (mainted by users).
-- [Rotten Tomatoes](http://developer.rottentomatoes.com/io-docs/docs) - movie reviews.
-- [Twitter API](https://developer.twitter.com/).
-- [WikiMedia REST API](https://www.mediawiki.org/wiki/REST_API) - access to Wikipedia content, data, and statistics.
-
-See also [any-api.com](https://any-api.com/).
-
-## Scales and measures
+## Survey scales and measures
 
 - [Media Exposure Measures](https://mediaexposuremeasures.org/) from Amsterdam School of Communication Research (ASCoR).
 - [The Semantic Scale Network](https://rosenbusch.shinyapps.io/semantic_net/) - online app that detect semantically related scales. Input a scale item and get a similar scales/items back (contains 2,300 scales and 30,000 items).
 - [Measurement Instrument Database for the Social Sciences (MIDSS)](http://www.midss.org/)
 - [Decision Making Individual Differences Inventory (DMIDI)](http://www.sjdm.org/dmidi/)
 - [PsycTESTS - psychological measures, scales, and instrumentation tools](http://www.apa.org/pubs/databases/psyctests/)
+
+## Survey software
+
+- [qualtRics](https://github.com/ropensci/qualtRics) - Download and import qualtrics survey data directly (R).
 
 ## Statistics and questionable research practices (QRP's)
 

@@ -109,6 +109,10 @@ Misc:
 - [Google Ngram Viewer](https://books.google.com/ngrams) - shows number of times a phrase have occurred in a books from year 1800 to 2000.
 - [Lumen database](https://lumendatabase.org/) - collects and analyzes legal complaints and requests for removal of online materials (e.g., Google search results).
 
+## Web scraping
+
+- [Scrapy](https://github.com/scrapy/scrapy) - fast high-level web crawling and web scraping framework (Python).
+
 ## Online archives, archiving
 
 - [Internet Archive](https://archive.org/) - non-profit digital library offering free universal access to books, movies & music, as well as 343 billion archived web pages via [Wayback Machine](https://archive.org/web/).

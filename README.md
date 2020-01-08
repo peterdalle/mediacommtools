@@ -63,6 +63,7 @@ Survey data:
 - [scrape-twitter](https://github.com/sebinsua/scrape-twitter) - Command line interfaces to scrape profiles, timelines, connections, likes, search and conversations with the use of API (Node.js).
 - [Chorus](http://chorusanalytics.co.uk/) - free Twitter harvesting and visual analytics suite for social science research (Windows).
 - [Twitter API](https://developer.twitter.com/).
+- [Twitter - helpful tools](https://developer.twitter.com/en/use-cases/academic-researchers/helpful-tools) - Twitter lists helpful tools for data access, data analysis, data visualization, and hosting.
 
 ### Wikipedia
 

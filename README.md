@@ -80,6 +80,11 @@ Survey data:
 - [YouTube comment scraper](http://ytcomments.klostermann.ca/scrape) - scrape comments from YouTube videos, download comments as JSON or CSV (online tool).
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - download YouTube videos or videos from other sites (Python).
 
+### Reddit
+
+- [PRAW](https://praw.readthedocs.io/en/latest/) - Library for API access to Reddit (Python).
+- [RedditExtractoR](https://www.rdocumentation.org/packages/RedditExtractoR) - Package for API access to Reddit (R).
+
 ### Misc sites
 
 - [Creepy](http://www.geocreepy.com) ([GitHub](https://github.com/ilektrojohn/creepy)) - a geolocation OSINT tool. Offers geolocation information gathering through social networking platforms (Python). 

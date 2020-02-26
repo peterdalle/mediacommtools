@@ -231,7 +231,8 @@ Convert effect sizes:
 More lists:
 
 - [Awesome Web Archiving Awesome](https://github.com/iipc/awesome-web-archiving) - awesome list for getting started with web archiving.
-- [awesome-r:](https://github.com/uhub/awesome-r) - list of awesome R frameworks, libraries and software.
+- [Awesome R](https://awesome-r.com/) - curated list of awesome R packages and tools, find packages by category. 
+- [awesome-r](https://github.com/uhub/awesome-r) - yet another list of awesome R frameworks, libraries and software.
 - [Social media collection tools](http://socialmediadata.wikidot.com/) - by Deen Freelon.
 - [Social media methodologies](https://socialmediamethodologies.wordpress.com/)
 

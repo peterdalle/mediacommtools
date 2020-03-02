@@ -70,6 +70,8 @@ Survey data:
 - [Pageviews Analysis tool for Wikimedia Foundation wikis](https://tools.wmflabs.org/pageviews/?project=en.wikipedia.org&platform=all-access&agent=user&range=latest-20&pages=Echo_chamber_(media)|Filter_bubble) ([GitHub](https://github.com/MusikAnimal/pageviews)) - number of page views for any Wikipedia page (online tool, PHP).
 - [WikiMedia REST API](https://www.mediawiki.org/wiki/REST_API) - access to Wikipedia content, data, and statistics (online API).
 - [WikiShark](https://www.wikishark.com/) - Wikipedia article traffic (page views) since 2008, updated every hour or so.
+- [Page view statistics for Wikimedia projects 2008-2016](https://dumps.wikimedia.org/other/pagecounts-raw/) - download all dumps from Wikipedia with page views for all projects from 2008 to 2016.
+- [Analytics Datasets: Pageviews 2016 onwards](https://dumps.wikimedia.org/other/pageviews/readme.html) - download all dumps from Wikipedia with page views for all projects from 2016 onwards. Don't forget that you can use the API instead for easier access, but note that the API only has data from year 2015 onwards.
 
 ### Google
 

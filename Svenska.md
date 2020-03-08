@@ -3,3 +3,4 @@
 ## Dataset
 
 - [Mediestudiers innehållsanalys](https://mediestudier.se/mediestudiers-innehallsanalys/) - fortlöpande kvantitativ innehållsanalys sedan 2007 av 26 medier (riksmedier samt medier i Stockholm, Värmland, Västernorrland och Västmanland). Filer för SPSS och Excel samt kodbok.
+- [Kolada](https://www.kolada.se/) - öppen, kostnadsfri databas med 5 000 nyckeltal för kommuner och regioner (API).

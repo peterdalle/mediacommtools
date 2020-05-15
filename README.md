@@ -107,6 +107,7 @@ Survey data:
 - [newsdiffs](https://github.com/ecprice/newsdiffs) - automatic scraper that tracks changes in news articles over time (Python).
 - [newsflash](https://github.com/hrbrmstr/newsflash) - tools to work with the Internet Archive and GDELT Television Explorer (R).
 - [newspaper](https://github.com/codelucas/newspaper) - news, full-text, and article metadata extraction, based on [python-goose](https://github.com/grangier/python-goose) (Python).
+- [news-please](https://github.com/fhamborg/news-please) - integrated web crawler and information extractor for news that just works  (Python).
 - [Newsmap](https://github.com/koheiw/newsmap) - semi-supervised geographical news classifier (R). [Journal article](https://doi.org/10.1080/21670811.2017.1293487).
 - [Scrapy](https://github.com/scrapy/scrapy) - fast high-level web crawling and web scraping framework (Python).
 

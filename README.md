@@ -28,6 +28,10 @@ Survey data:
 - [Latin American Public Opinion Project](https://www.vanderbilt.edu/lapop/raw-data.php) (North and South America)
 - [SOM Institute 1986–](https://snd.gu.se/sv/catalogue/search/SOM) (Sweden)
 
+Media data:
+
+- [IMDB Ratings for TV/Streaming Series](https://github.com/nazareno/imdb-series/) - dataset of ratings given in IMDB to episodes of popular TV and Streaming series (includes R code).
+
 ## Content analysis, text analysis, text mining
 
 - [Text Mining for Social Scientists and Digital Humanists](https://tm4ss.github.io/docs/) ([GitHub](https://github.com/tm4ss/tm4ss.github.io)) (R)

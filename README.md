@@ -255,6 +255,7 @@ Tutorials:
 
 Literature:
 
+- Barberá, P., Boydstun, A. E., Linn, S., McMahon, R., & Nagler, J. (in press). Automated Text Classification of News Articles: A Practical Guide. Political Analysis, 1–24. https://doi.org/10.1017/pan.2020.8
 - Boumans, J. W., & Trilling, D. (2016). Taking Stock of the Toolkit: An overview of relevant automated content analysis approaches and techniques for digital journalism scholars. Digital Journalism, 4(1), 8–23. https://doi.org/10.1080/21670811.2015.1096598
 - Burscher, B., Odijk, D., Vliegenthart, R., de Rijke, M., & de Vreese, C. H. (2014). Teaching the Computer to Code Frames in News: Comparing Two Supervised Machine Learning Approaches to Frame Analysis. Communication Methods and Measures, 8(3), 190–206. https://doi.org/10.1080/19312458.2014.937527
 - Freelon, D. (2015). On the cutting edge of Big Data: Digital politics research in the social computing literature. In S. Coleman & D. Freelon (Eds.), Handbook of Digital Politics (p. 448). Northampton, MA: Edward Elgar.

@@ -154,6 +154,7 @@ Retractions:
 - [QGIS](http://www.qgis.org/) - free and open source geographic information system app (Windows/Mac/Linux).
 - [Inkscape](https://inkscape.org/) - free and open source desktop program to draw vector graphics like Adobe Illustrator (Windows/Mac/Linux).
 - [From Data to Viz](https://www.data-to-viz.com/) - leads you to the most appropriate graph for your data, links to the code to build it and lists common caveats you should avoid (online tool).
+- [Chart Types](https://flowingdata.com/chart-types/) - tutorials, guides, and examples for all of the major graphs and some others.
 
 ## Convert and clean data
 

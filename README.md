@@ -120,6 +120,7 @@ Media data:
 - [Internet Archive](https://archive.org/) - non-profit digital library offering free universal access to books, movies & music (online tool).
 - [Wayback Machine](https://archive.org/web/) - 343 billion archived web pages from Internet Archive (online tool).
 - [archive.is](https://archive.is/) - take a snapshot of a webpage that will always be online even if the original page disappears (online tool).
+- [HTTrack Website Copier](https://www.httrack.com/) - download website to a local directory, building recursively all directories, getting HTML, images, and other files with the original site's relative link-structure (Windows/Mac/Linux).
 
 ## Journal articles, citations, bibliometrics
 

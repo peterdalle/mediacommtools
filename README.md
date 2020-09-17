@@ -32,6 +32,10 @@ Media data:
 
 - [IMDB Ratings for TV/Streaming Series](https://github.com/nazareno/imdb-series/) - dataset of ratings given in IMDB to episodes of popular TV and Streaming series (includes R code).
 
+Social media data:
+
+- [The Twitter Parliamentarian Database](http://twitterpoliticians.org/) - database with Twitter politics across 26 countries.
+
 ## Content analysis, text analysis, text mining
 
 - [Text Mining for Social Scientists and Digital Humanists](https://tm4ss.github.io/docs/) ([GitHub](https://github.com/tm4ss/tm4ss.github.io)) (R)

@@ -56,6 +56,10 @@ Social media data:
 - [Auslogics Duplicate File Finder](https://www.auslogics.com/en/software/duplicate-file-finder/) - finds duplicate files regardless of their filenames (Windows app).
 - [comparefiles](https://github.com/peterdalle/comparefiles) - scans a directory for identical files or similar text files (Python).
 
+## Television
+
+- [Stanford Cable TV News Analyzer](https://tvnews.stanford.edu/) - tool to count screen time of who and what is in cable TV news (from the [Internet Archive TV News](https://archive.org/details/tv)).
+
 ## Social networking sites and specific sites
 
 ### Facebook

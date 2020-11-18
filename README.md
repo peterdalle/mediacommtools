@@ -161,6 +161,9 @@ Retractions:
 - [conjoint-example](https://github.com/leeper/conjoint-example) - example conjoint experimental design in Qualtrics.
 - [PsyToolkit](https://www.psytoolkit.org/) - free toolkit for demonstrating, programming, and running cognitive-psychological experiments and surveys, including personality tests (online tool).
 - [Empirica](https://empirica.ly/) - framework for running multiplayer interactive experiments and games in the browser (JavaScript).
+- [Gorilla](https://gorilla.sc/) - creates and hosts online experiments with easy-to-use graphical interface, no coding necessary (pay per respondent).
+- [oTree](http://www.otree.org/) - open-source platform for behavioral research.
+- [Elgg](https://elgg.org/) - not a research tool, but open source social networking engine with core components to build a social networking site (PHP).
 
 ## Graphics, network visualizations and maps
 

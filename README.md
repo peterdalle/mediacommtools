@@ -41,6 +41,7 @@ Social media data:
 
 - [Semantic scholar](https://www.semanticscholar.org/) - AI-powered research tool for scientific literature.
 - [Connected papers](https://www.connectedpapers.com/) - explore connected papers in a visual graph.
+- [Publish or Perish](https://harzing.com/resources/publish-or-perish) - retrieves and analyzes academic citations from Google Scholar and Microsoft Academic Search (Win/Mac/Linux)
 
 ## Content analysis, text analysis, text mining
 

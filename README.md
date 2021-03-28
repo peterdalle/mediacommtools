@@ -37,11 +37,13 @@ Social media data:
 
 - [The Twitter Parliamentarian Database](http://twitterpoliticians.org/) - database with Twitter politics across 26 countries.
 
-## Literature search
+## Literature search, bibliometrics
 
 - [Semantic scholar](https://www.semanticscholar.org/) - AI-powered research tool for scientific literature.
 - [Connected papers](https://www.connectedpapers.com/) - explore connected papers in a visual graph.
 - [Publish or Perish](https://harzing.com/resources/publish-or-perish) - retrieves and analyzes academic citations from Google Scholar and Microsoft Academic Search (Win/Mac/Linux)
+- [VOSViewer](https://www.vosviewer.com/) - software for constructing and visualizing bibliometric networks of journals, researchers, or publications based on citation, bibliographic coupling, co-citation, or co-authorship + text mining.
+- [CitNetExplorer](https://www.citnetexplorer.nl/) - software for visualizing and analyzing citation networks of scientific publications, import from Web of Science
 
 ## Content analysis, text analysis, text mining
 

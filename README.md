@@ -37,14 +37,6 @@ Social media data:
 
 - [The Twitter Parliamentarian Database](http://twitterpoliticians.org/) - database with Twitter politics across 26 countries.
 
-## Literature search, bibliometrics
-
-- [Semantic scholar](https://www.semanticscholar.org/) - AI-powered research tool for scientific literature.
-- [Connected papers](https://www.connectedpapers.com/) - explore connected papers in a visual graph.
-- [Publish or Perish](https://harzing.com/resources/publish-or-perish) - retrieves and analyzes academic citations from Google Scholar and Microsoft Academic Search (Win/Mac/Linux)
-- [VOSViewer](https://www.vosviewer.com/) - software for constructing and visualizing bibliometric networks of journals, researchers, or publications based on citation, bibliographic coupling, co-citation, or co-authorship + text mining.
-- [CitNetExplorer](https://www.citnetexplorer.nl/) - software for visualizing and analyzing citation networks of scientific publications, import from Web of Science
-
 ## Content analysis, text analysis, text mining
 
 - [Text Mining for Social Scientists and Digital Humanists](https://tm4ss.github.io/docs/) ([GitHub](https://github.com/tm4ss/tm4ss.github.io)) (R)
@@ -139,7 +131,7 @@ Social media data:
 - [archive.is](https://archive.is/) - take a snapshot of a webpage that will always be online even if the original page disappears (online tool).
 - [HTTrack Website Copier](https://www.httrack.com/) - download website to a local directory, building recursively all directories, getting HTML, images, and other files with the original site's relative link-structure (Windows/Mac/Linux).
 
-## Journal articles, citations, bibliometrics
+## Literature search, journal articles, citations, bibliometrics
 
 - [journal-spider](https://github.com/chartgerink/journal-spiders) - tools to spider journal websites for links to articles (Python).
 - [Claim Extraction for Scientific Publications](https://github.com/titipata/detecting-scientific-claim) - detect claims (e.g. "background", "conclusion") from scientific publication using discourse and sentence embedding (Python).
@@ -147,6 +139,11 @@ Social media data:
 - [OpenCitations](http://opencitations.net/) - search and browse OpenCitations Corpus (OCC) of open downloadable bibliographic and citation data recorded in RDF (online API).
 - [metaknowledge](http://networkslab.org/metaknowledge/) - computational research in bibliometrics, scientometrics, and network analysis (Python).
 - [pdfx](https://github.com/metachris/pdfx) - extract references (pdf, url, doi, arxiv) and metadata from a PDF. Download all referenced PDFs (Python).
+- [Semantic scholar](https://www.semanticscholar.org/) - AI-powered research tool for scientific literature (online tool).
+- [Connected papers](https://www.connectedpapers.com/) - explore connected papers in a visual graph (online tool).
+- [Publish or Perish](https://harzing.com/resources/publish-or-perish) - retrieves and analyzes academic citations from Google Scholar and Microsoft Academic Search (Win/Mac/Linux).
+- [VOSViewer](https://www.vosviewer.com/) - software for constructing and visualizing bibliometric networks of journals, researchers, or publications based on citation, bibliographic coupling, co-citation, or co-authorship + text mining (Win/Mac).
+- [CitNetExplorer](https://www.citnetexplorer.nl/) - software for visualizing and analyzing citation networks of scientific publications, import from Web of Science (Win/Mac).
 
 Retractions:
 

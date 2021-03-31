@@ -44,6 +44,7 @@ Social media data:
 - [SentimentAnalysis](https://github.com/sfeuerriegel/SentimentAnalysis) - sentiment analysis of text (R).
 - [Topic Models Learning and R Resources](https://github.com/trinker/topicmodels_learning)
 - [Count Words in a PDF Document](https://leeper.shinyapps.io/pdfcount/) (online tool).
+- [TAPoR](http://tapor.ca/) - curated lists of widely used research tools in the digital humanities for studying texts.
 
 ## Compare differences between texts, find duplicate files
 

@@ -256,6 +256,10 @@ Convert effect sizes:
 - [Collection of preregistered studies](https://www.zotero.org/groups/479248/osf/items/collectionKey/VKXUAZM7) from OSF. See also [Registered Protocols](https://www.zotero.org/groups/479248/osf/items/collectionKey/G64VMW96) and [Registered Reports](https://www.zotero.org/groups/479248/osf/items/collectionKey/KEJP68G9).
 - [Top factor](https://cos.io/top/) - ranking of scientific journals based on open science practices.
 
+## Humor
+
+- [Break your own news](https://www.breakyourownnews.com/) - Breaking News Meme Generator - Add your pic, write the headline and generate a screenshot of a breaking news story.
+
 ## See also
 
 More lists:

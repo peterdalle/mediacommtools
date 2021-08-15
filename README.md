@@ -9,6 +9,7 @@ Search engines:
 - [Google Dataset Search](https://toolbox.google.com/datasetsearch) - search engine for datasets.
 - [re3data.org](http://www.re3data.org/)
 - [Metadata Search](http://search.datacite.org/ui)
+- [Dimensions](https://app.dimensions.ai/discover/data_set) - search among 8+ million datasets (with about 2 million of those datasets that link to the original article)
 
 Archives and lists:
 

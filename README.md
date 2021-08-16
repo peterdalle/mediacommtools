@@ -260,6 +260,7 @@ Convert effect sizes:
 ## Humor
 
 - [Break your own news](https://www.breakyourownnews.com/) - Breaking News Meme Generator - Add your pic, write the headline and generate a screenshot of a breaking news story.
+- [FOAAS (Fuck Off As A Service)](https://foaas.com/) - a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
 
 ## See also
 

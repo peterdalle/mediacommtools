@@ -271,6 +271,7 @@ More lists:
 - [awesome-r](https://github.com/uhub/awesome-r) - yet another list of awesome R frameworks, libraries and software.
 - [Social media collection tools](http://socialmediadata.wikidot.com/) - by Deen Freelon.
 - [Social media methodologies](https://socialmediamethodologies.wordpress.com/)
+- [Political Science: APIs for Scholarly Resources](https://ucsd.libguides.com/c.php?g=90743&p=3202435)
 
 Tutorials:
 

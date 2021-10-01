@@ -143,6 +143,7 @@ Social media data:
 - [pdfx](https://github.com/metachris/pdfx) - extract references (pdf, url, doi, arxiv) and metadata from a PDF. Download all referenced PDFs (Python).
 - [Semantic scholar](https://www.semanticscholar.org/) - AI-powered research tool for scientific literature (online tool).
 - [Connected papers](https://www.connectedpapers.com/) - explore connected papers in a visual graph (online tool).
+- [CoCites](http://cocites.com/) - citation-based method for searching scientific literature, lets you find out who else published on a topic.
 - [Publish or Perish](https://harzing.com/resources/publish-or-perish) - retrieves and analyzes academic citations from Google Scholar and Microsoft Academic Search (Win/Mac/Linux).
 - [VOSViewer](https://www.vosviewer.com/) - software for constructing and visualizing bibliometric networks of journals, researchers, or publications based on citation, bibliographic coupling, co-citation, or co-authorship + text mining (Win/Mac).
 - [CitNetExplorer](https://www.citnetexplorer.nl/) - software for visualizing and analyzing citation networks of scientific publications, import from Web of Science (Win/Mac).

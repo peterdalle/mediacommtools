@@ -29,6 +29,7 @@ Survey data:
 - [The General Social Survey 1972–](http://gss.norc.org/) (USA)
 - [Latin American Public Opinion Project](https://www.vanderbilt.edu/lapop/raw-data.php) (North and South America)
 - [SOM Institute 1986–](https://snd.gu.se/sv/catalogue/search/SOM) (Sweden)
+- [Norsk senter for forskningsdata](https://www.nsd.no/) (Norway)
 
 Media data:
 

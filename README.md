@@ -38,7 +38,7 @@ Social media data:
 
 - [The Twitter Parliamentarian Database](http://twitterpoliticians.org/) - database with Twitter politics across 26 countries.
 
-## Content analysis, text analysis, text mining
+## Content analysis, text analysis, text mining, annotation
 
 - [Text Mining for Social Scientists and Digital Humanists](https://tm4ss.github.io/docs/) ([GitHub](https://github.com/tm4ss/tm4ss.github.io)) (R)
 - [Lexicoder](http://www.lexicoder.com/) - multi-platform software for automated content analysis of text (Java).
@@ -46,6 +46,7 @@ Social media data:
 - [Topic Models Learning and R Resources](https://github.com/trinker/topicmodels_learning)
 - [Count Words in a PDF Document](https://leeper.shinyapps.io/pdfcount/) (online tool).
 - [TAPoR](http://tapor.ca/) - curated lists of widely used research tools in the digital humanities for studying texts.
+- [Datavyu](https://datavyu.org/) - code and annotate video (Win/Mac app).
 
 ## Compare differences between texts, find duplicate files
 

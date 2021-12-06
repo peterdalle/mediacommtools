@@ -2,6 +2,31 @@
 
 A list of digital tools and resources for journalism, media and communication research, and computational social science.
 
+Table of contents
+
+- [Find datasets](#find-datasets)
+- [Content analysis, text analysis, text mining, annotation](#content-analysis-text-analysis-text-mining-annotation)
+- [Compare differences between texts, find duplicate files](#compare-differences-between-texts-find-duplicate-files)
+- [Television](#television)
+- [Social networking sites and specific sites](#social-networking-sites-and-specific-sites)
+- [Scrape and extract news articles](#scrape-and-extract-news-articles)
+- [Scrape and extract news articles](#scrape-and-extract-news-articles)
+- [Literature search](#literature-search)
+- [Find retracted articles](#find-retracted-articles)
+- [Behavioral and cognitive experiments](#behavioral-and-cognitive-experiments)
+- [Graphics, network visualization, and maps](#graphics-network-visualizations-and-maps)
+- [Convert and clean data](#convert-and-clean-data)
+- [Survey scales and measures](#survey-scales-and-measures)
+- [Survey software](#survey-software)
+- [Statistics and questionable research practices (QRPs)](#statistics-and-questionable-research-practices-qrps)
+- [statistical software](#statistical-software)
+- [Organize photos, citations, and references](#organize-photos-citations-and-references)
+- [Education](#education)
+- [Organizations](#organizations)
+- [Open science, preregistration, code/data sharing](#open-science-preregistration-codedata-sharing)
+- [Humor](#humor)
+- [See also](#see-also)
+ 
 ## Find datasets
 
 Search engines:

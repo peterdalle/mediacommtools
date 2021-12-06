@@ -19,7 +19,7 @@ Table of contents
 - [Survey scales and measures](#survey-scales-and-measures)
 - [Survey software](#survey-software)
 - [Statistics and questionable research practices (QRPs)](#statistics-and-questionable-research-practices-qrps)
-- [statistical software](#statistical-software)
+- [Statistical software](#statistical-software)
 - [Organize photos, citations, and references](#organize-photos-citations-and-references)
 - [Education](#education)
 - [Organizations](#organizations)

@@ -62,7 +62,8 @@ Media data:
 Social media data:
 
 - [The Twitter Parliamentarian Database](http://twitterpoliticians.org/) - database with Twitter politics across 26 countries.
-
+- [Hate speech data](https://hatespeechdata.com/) - datasets in many languages annotated for hate speech, online abuse, and offensive language. Useful to create machine learning models.
+ 
 ## Content analysis, text analysis, text mining, annotation
 
 - [Text Mining for Social Scientists and Digital Humanists](https://tm4ss.github.io/docs/) ([GitHub](https://github.com/tm4ss/tm4ss.github.io)) (R)

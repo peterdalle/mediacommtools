@@ -10,7 +10,6 @@ Table of contents
 - [Television](#television)
 - [Social networking sites and specific sites](#social-networking-sites-and-specific-sites)
 - [Scrape and extract news articles](#scrape-and-extract-news-articles)
-- [Scrape and extract news articles](#scrape-and-extract-news-articles)
 - [Literature search](#literature-search)
 - [Find retracted articles](#find-retracted-articles)
 - [Behavioral and cognitive experiments](#behavioral-and-cognitive-experiments)

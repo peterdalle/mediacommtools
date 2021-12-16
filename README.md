@@ -137,6 +137,7 @@ Media data:
 - [OMDb API](http://www.omdbapi.com/) - obtain movie information, content and images mainted by users (online API).
 - [Rotten Tomatoes API](http://developer.rottentomatoes.com/io-docs/docs) - movie reviews (online API).
 - See also [any-api.com](https://any-api.com/).
+- [APIs for social scientists: A collaborative review](https://bookdown.org/paul/apis_for_social_scientists/) - how to use many social media API:s, with example code (R).
 
 ## Scrape and extract news articles
 

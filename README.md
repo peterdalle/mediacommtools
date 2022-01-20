@@ -170,13 +170,17 @@ Media data:
 - [Publish or Perish](https://harzing.com/resources/publish-or-perish) - retrieves and analyzes academic citations from Google Scholar and Microsoft Academic Search (Win/Mac/Linux).
 - [VOSViewer](https://www.vosviewer.com/) - software for constructing and visualizing bibliometric networks of journals, researchers, or publications based on citation, bibliographic coupling, co-citation, or co-authorship + text mining (Win/Mac).
 - [CitNetExplorer](https://www.citnetexplorer.nl/) - software for visualizing and analyzing citation networks of scientific publications, import from Web of Science (Win/Mac).
+- [metagear](https://cran.r-project.org/web/packages/metagear/index.html) - research synthesis tools for systematic reviews and meta-analysis with data extraction (R).
+- [revtools](https://revtools.net/) - R package to conduct literature review or meta-analysis, visualise patterns in bibliographic data, select/exclude articles or words, etc (R).
+- [litsearchr](https://elizagrames.github.io/litsearchr/) - quick, objective, reproducible search strategy development using text-mining and keyword co-occurrence networks to identify important terms (R). [Journal article](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13268).
 
 ## Literature search
 
 - [Semantic scholar](https://www.semanticscholar.org/) - AI-powered research tool for scientific literature.
-- [Connected papers](https://www.connectedpapers.com/) - explore connected papers in a visual graph .
+- [Connected papers](https://www.connectedpapers.com/) - explore connected papers in a visual graph.
 - [CoCites](http://cocites.com/) - citation-based method for searching scientific literature, lets you find out who else published on a topic.
 - [Scite](https://scite.ai/) - discover supporting and contrasting evidence for papers by extracting the words around references.
+- [ASReview LAB](https://asreview.nl/) - AI-powered app that help screen texts for systematic reviewing (Win/Mac).
 
 ## Find retracted articles
 
@@ -268,6 +272,7 @@ Convert effect sizes:
 - [ReadCube Papers](https://www.readcube.com/) - bibliography reference manager.
 - [Zotero](https://www.zotero.org/) - bibliography reference manager (free).
 - [Tropy](https://tropy.org/) - organize research photos and images (free).
+- [Seshat annotation manager](https://seshat-annotation.readthedocs.io/en/latest/) - automated management of annotation campaigns of speech data (Docker).
 
 ## Education
 

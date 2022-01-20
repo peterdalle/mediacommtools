@@ -175,6 +175,7 @@ Media data:
 - [metagear](https://cran.r-project.org/web/packages/metagear/index.html) - research synthesis tools for systematic reviews and meta-analysis with data extraction (R).
 - [revtools](https://revtools.net/) - R package to conduct literature review or meta-analysis, visualise patterns in bibliographic data, select/exclude articles or words, etc (R).
 - [litsearchr](https://elizagrames.github.io/litsearchr/) - quick, objective, reproducible search strategy development using text-mining and keyword co-occurrence networks to identify important terms (R). [Journal article](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13268).
+- [Rayyan](https://www.rayyan.ai/) - uses AI/NLP to speed you through systematic reviews (Android/iOS).
 
 ## Literature search
 

@@ -240,6 +240,7 @@ Media data:
 - [statcheck](http://statcheck.io/) checks if p-values match reported statistics.
 - [Test of Insufficient Variance (TIVA)](https://replicationindex.wordpress.com/2014/12/30/the-test-of-insufficient-variance-tiva-a-new-tool-for-the-detection-of-questionable-research-practices/) checks wether reported p-values was obtained using questionable research practices.
 - [zcurve](https://cran.r-project.org/web/packages/zcurve/index.html) - estimates mean power after selection for significance, see [blogpost](https://replicationindex.com/2018/10/19/an-introduction-to-z-curve/) and [journal article](https://open.lnu.se/index.php/metapsychology/article/view/874) (R).
+- [P-hacker](https://shinyapps.org/apps/p-hacker/) - train your p-hacking skills to achieve p < 0.05 (online app/Shiny).
 
 ## Statistical software
 

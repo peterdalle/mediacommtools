@@ -25,6 +25,7 @@ Table of contents
 - [Education](#education)
 - [Organizations](#organizations)
 - [Open science, preregistration, code/data sharing](#open-science-preregistration-codedata-sharing)
+- [Text, writing](#text-writing)
 - [Humor](#humor)
 - [See also](#see-also)
  
@@ -298,6 +299,10 @@ Convert effect sizes:
 - [SocArxiv](https://osf.io/preprints/socarxiv) - share your manuscript and get feedback as a pre-print before journal publication.
 - [Collection of preregistered studies](https://www.zotero.org/groups/479248/osf/items/collectionKey/VKXUAZM7) from OSF. See also [Registered Protocols](https://www.zotero.org/groups/479248/osf/items/collectionKey/G64VMW96) and [Registered Reports](https://www.zotero.org/groups/479248/osf/items/collectionKey/KEJP68G9).
 - [Top factor](https://cos.io/top/) - ranking of scientific journals based on open science practices.
+
+## Text, writing
+
+- [QuillBot](https://quillbot.com/) - paraphrasing tool helps rewrite your text and enhance sentences, paragraphs using AI (online).
 
 ## Humor
 

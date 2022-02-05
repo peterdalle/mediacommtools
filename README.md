@@ -282,6 +282,7 @@ Convert effect sizes:
 ## Education
 
 - [Data Journalism Courses](https://github.com/jwyg/data-journalism-courses) - list of data journalism courses and programmes from universities and higher education institutions around the world.
+- [SICCS Learning Materials](https://sicss.io/overview) - open source teaching and learning resources for computational social science.
 
 ## Organizations
 

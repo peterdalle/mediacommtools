@@ -74,7 +74,7 @@ Media data:
 - [Count Words in a PDF Document](https://leeper.shinyapps.io/pdfcount/) (online tool).
 - [TAPoR](http://tapor.ca/) - curated lists of widely used research tools in the digital humanities for studying texts.
 - [Datavyu](https://datavyu.org/) - code and annotate video (Win/Mac app).
-- [Sentiment Classification for News Articles](https://pypi.org/project/NewsSentiment/): easy-to-use, high-quality sentiment classification for news articles
+- [Sentiment Classification for News Articles](https://pypi.org/project/NewsSentiment/) - easy-to-use, high-quality sentiment classification for news articles (Python).
 
 ## Compare differences between texts, find duplicate files
 

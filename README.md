@@ -218,6 +218,7 @@ Media data:
 - [From Data to Viz](https://www.data-to-viz.com/) - leads you to the most appropriate graph for your data, links to the code to build it and lists common caveats you should avoid (online tool).
 - [Chart Types](https://flowingdata.com/chart-types/) - tutorials, guides, and examples for all of the major graphs and some others.
 - [Diagrams.net (previously draw.io)](https://app.diagrams.net/) - draw flowcharts, diagrams, charts, sequences etc (online tool).
+- [Dagitty](http://dagitty.net/) - create, edit or analyze causal diagrams or DAGs (online tool).
 
 ## Convert and clean data
 

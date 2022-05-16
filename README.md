@@ -19,6 +19,7 @@ Archives and lists:
 - [Awesome Public Datasets](https://github.com/vnijs/awesome-public-datasets) - awesome list of (large-scale) public datasets on the Internet (on-going collection).
 - [Common Crawl](http://commoncrawl.org/) - download a copy of the web, several billion web pages (250+ terabyte of data), updated regularly.
 - [Öppna Data](https://oppnadata.se/) - open data in Sweden (from Riksarkivet).
+- [PPEG Database](https://ppeg.wzb.eu/) - information on political parties, presidents, elections, and governments around the world.
 
 Survey data:
 

@@ -287,14 +287,14 @@ Power analysis:
 - [cjpowR](https://github.com/m-freitag/cjpowR) - a priori power analyses for conjoint experiments (R).
 - [Multilevel Power Tool](https://aguinis.shinyapps.io/ml_power/) - power estimate for cross-level interaction effects detection in multilevel modeling (online).
 - [JOMR](https://aguinis.shinyapps.io/jomr/) - cross-level interaction effect calculator (online).
-- [Power Analysis with Mediation Models](http://marlab.org/power_mediation/) -- Monte Carlo power analysis for mediation models (R Shiny/online).
+- [Power Analysis with Mediation Models](http://marlab.org/power_mediation/) - Monte Carlo power analysis for mediation models (R Shiny/online).
 - [Estimate Sample Size Based on Precision](https://malcolmbarrett.shinyapps.io/precisely/) - study planning tool to calculate sample size based on precision rather than power (online).
 - [Monte Carlo Power Analysis for Indirect Effects](https://schoemanna.shinyapps.io/mc_power_med/) - (online).
 
 Plan statistical design:
 
 - [Persuasion experiment design tool](http://experiments.berkeley.edu/) - (online).
-- [DeclareDesign] - a set of software tools for describing, assessing, and conducting empirical research (R).
+- [DeclareDesign](https://declaredesign.org/) - a set of software tools for describing, assessing, and conducting empirical research (R).
 
 ## Organize photos, citations and references
 

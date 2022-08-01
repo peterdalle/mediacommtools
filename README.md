@@ -262,8 +262,6 @@ Free data analysis and exploration software:
 - [Jamovi](https://www.jamovi.org/) - developed from JASP.
 - [ESCI (Exploratory Software for Confidence Intervals)](http://www.latrobe.edu.au/psychology/research/research-areas/cognitive-and-developmental-psychology/esci/2001-to-2010) - simulate confidence intervals using Microsoft Excel.
 - [Process macro for SPSS and SAS](http://processmacro.org/download.html) - plugin for moderator and mediator analysis.
-- [Power and N Computations for Mediation](https://davidakenny.shinyapps.io/MedPower/) - online tool by David A. Kenny to calculate power or sample size.
-- [Calculator for false positive risk (FPR)](http://fpr-calc.ucl.ac.uk/) - If you observe a significant p-value after a single experiment, what's the probability that your result is a false positive? By Colin Longstaff, David Colquhoun, Brendan Halpin.
 
 Convert effect sizes:
 
@@ -290,6 +288,8 @@ Power analysis:
 - [Power Analysis with Mediation Models](http://marlab.org/power_mediation/) - Monte Carlo power analysis for mediation models (R Shiny/online).
 - [Estimate Sample Size Based on Precision](https://malcolmbarrett.shinyapps.io/precisely/) - study planning tool to calculate sample size based on precision rather than power (online).
 - [Monte Carlo Power Analysis for Indirect Effects](https://schoemanna.shinyapps.io/mc_power_med/) - (online).
+- [Power and N Computations for Mediation](https://davidakenny.shinyapps.io/MedPower/) - online tool by David A. Kenny to calculate power or sample size.
+- [Calculator for false positive risk (FPR)](http://fpr-calc.ucl.ac.uk/) - If you observe a significant p-value after a single experiment, what's the probability that your result is a false positive? By Colin Longstaff, David Colquhoun, Brendan Halpin.
 
 Plan statistical design:
 

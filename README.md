@@ -260,7 +260,6 @@ Free data analysis and exploration software:
 - [R](https://www.r-project.org/) - programming language for statistics.
 - [JASP](https://jasp-stats.org/download/) - built on top of R.
 - [Jamovi](https://www.jamovi.org/) - developed from JASP.
-- [G\*Power](http://www.gpower.hhu.de/) - statistical power analysis.
 - [ESCI (Exploratory Software for Confidence Intervals)](http://www.latrobe.edu.au/psychology/research/research-areas/cognitive-and-developmental-psychology/esci/2001-to-2010) - simulate confidence intervals using Microsoft Excel.
 - [Process macro for SPSS and SAS](http://processmacro.org/download.html) - plugin for moderator and mediator analysis.
 - [Power and N Computations for Mediation](https://davidakenny.shinyapps.io/MedPower/) - online tool by David A. Kenny to calculate power or sample size.
@@ -274,6 +273,28 @@ Convert effect sizes:
 - [VassarStats: Website for Statistical Computation](http://vassarstats.net/)
 - [Equivalent Statistics](http://psych.purdue.edu/~gfrancis/EquivalentStatistics/)
 - [Practical Meta-Analysis Effect Size Calculator](https://www.campbellcollaboration.org/escalc/html/EffectSizeCalculator-SMD-main.php)
+- [Calculating Effect Sizes](https://katherinemwood.shinyapps.io/lakens_effect_sizes/)
+
+Power analysis:
+
+- [G\*Power](http://www.gpower.hhu.de/) - statistical power analysis (Win).
+- [Superpower](https://github.com/arcaldwell49/Superpower) - calculate a priori power for factorial designs using simulations (R). [See also book](https://aaroncaldwell.us/SuperpowerBook/).
+- [SampleSizePlanner](https://github.com/marton-balazs-kovacs/SampleSizePlanner) - package and Shiny app to determine sample size for two group study designs (R).
+- [InteractionPoweR](https://github.com/dbaranger/InteractionPoweR) - power analysis for interactions via simulation (R).
+- [pretrends](https://github.com/jonathandroth/pretrends) - package for power calculations and visualization for pre-trends tests (R).
+- [rdpower](https://rdpackages.github.io/) - power, sample size, and minimum detectable effects calculations using robust bias-corrected local polynomial inference (R). See also the [regression discontinuity designs](https://rdpackages.github.io/).
+- [Conjoint Experiments: Power Analysis Tool](https://mblukac.shinyapps.io/conjoints-power-shiny/) - calculate power for conjoint experiments, including type S and type M errors (online).
+- [cjpowR](https://github.com/m-freitag/cjpowR) - a priori power analyses for conjoint experiments (R).
+- [Multilevel Power Tool](https://aguinis.shinyapps.io/ml_power/) - power estimate for cross-level interaction effects detection in multilevel modeling (online).
+- [JOMR](https://aguinis.shinyapps.io/jomr/) - cross-level interaction effect calculator (online).
+- [Power Analysis with Mediation Models](http://marlab.org/power_mediation/) -- Monte Carlo power analysis for mediation models (R Shiny/online).
+- [Estimate Sample Size Based on Precision](https://malcolmbarrett.shinyapps.io/precisely/) - study planning tool to calculate sample size based on precision rather than power (online).
+- [Monte Carlo Power Analysis for Indirect Effects](https://schoemanna.shinyapps.io/mc_power_med/) - (online).
+
+Plan statistical design:
+
+- [Persuasion experiment design tool](http://experiments.berkeley.edu/) - (online).
+- [DeclareDesign] - a set of software tools for describing, assessing, and conducting empirical research (R).
 
 ## Organize photos, citations and references
 

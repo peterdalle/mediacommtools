@@ -75,6 +75,7 @@ Media data:
 - [TAPoR](http://tapor.ca/) - curated lists of widely used research tools in the digital humanities for studying texts.
 - [Datavyu](https://datavyu.org/) - code and annotate video (Win/Mac app).
 - [Sentiment Classification for News Articles](https://pypi.org/project/NewsSentiment/) - easy-to-use, high-quality sentiment classification for news articles (Python).
+- [Albis](https://www.albis.news/?utm_source=github&utm_medium=referral&utm_campaign=mediacommtools) - public news-intelligence feed for comparing global stories, coverage gaps, and framing differences across the news agenda (online tool).
 
 ## Compare differences between texts, find duplicate files
 

@@ -108,6 +108,7 @@ Media data:
 - [Chorus](http://chorusanalytics.co.uk/) - free Twitter harvesting and visual analytics suite for social science research (Windows).
 - [Twitter API](https://developer.twitter.com/).
 - [Twitter - helpful tools](https://developer.twitter.com/en/use-cases/academic-researchers/helpful-tools) - Twitter lists helpful tools for data access, data analysis, data visualization, and hosting.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ### Wikipedia
 
@@ -147,7 +148,7 @@ Media data:
 
 - [GDELT Project](http://gdeltproject.org/) - archives all news media events around the globe.
 - [The Social, Political and Economic Event Database Project (SPEED)](https://clinecenter.illinois.edu/project/human-loop-event-data-projects/SPEED) - comprehensive news sources from 1945 onwards, crawls over 5,000 news feeds in 120 countries several times each day, scraping news reports, totalling over 40 million news reports.
-- [mediacloud](https://github.com/berkmancenter/mediacloud) - open source, open data platform that allows researchers to answer quantitative questions about the content of online media (Perl/Python).
+- [mediacloud](https://github.com/mediacloud/backend) - open source, open data platform that allows researchers to answer quantitative questions about the content of online media (Perl/Python).
 - [Trove](https://trove.nla.gov.au/) - Find and get Australian and online resources: books, images, historic newspapers, maps, music, archives and more.
 - [newsdiffs](https://github.com/ecprice/newsdiffs) - automatic scraper that tracks changes in news articles over time (Python).
 - [newsflash](https://github.com/hrbrmstr/newsflash) - tools to work with the Internet Archive and GDELT Television Explorer (R).
